@@ -17,7 +17,7 @@ def get_sla_by_name(input_name, dataframe):
         return None
 
 
-st.title("Simple chat")
+st.title("⌚ SLA Chat")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
