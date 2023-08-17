@@ -1,0 +1,84 @@
+case type,case,Note | Action,Normal SLA,Delay
+physical case,voice down,#NA,1 Day,1 Day
+physical case,voice overlapping,#NA,1 Day,1 Day
+physical case,data and voice down,#NA,1 Day,1 Day
+physical case,physical instability,#NA,1 Day,1 Day
+physical case,bad line quality,#NA,1 Day,1 Day
+physical case,wrong card and port,#NA,1 Day,1 Day
+physical case,physical instability contradiction,#NA,2 H,2 H
+physical case,need optimization,#NA,1 WH ,1 WH
+logical case,browsing,#NA,From 2 to 5 Hours,From 2 to 5 Hours
+logical case,suspended account,#NA,75 H,75 H
+logical case,nas port id,#NA,From 2 to 5 Hours,From 2 to 5 Hours
+logical case,no aaa profile in nst,#NA,75 H,75 H
+logical case,portalredir service,#NA,75 H,75 H
+logical case,slowness,#NA,From 2 to 5 Hours,From 2 to 5 Hours
+logical case,speed variance,#NA,75 H,75 H
+logical case,logical instability,#NA,From 2 to 5 Hours,From 2 to 5 Hours
+logical case,unable to obtain ip,#NA,From 2 to 5 Hours,From 2 to 5 Hours
+logical case,unsupported case,#NA,2 H,2 H
+logical case,wrong profile on matrix,#NA,2:5 H,2:5 H
+logical case,wrong profile on matrix (special status waiting for it),#NA,48 WH,48 WH
+iu update case,major fault,dont missing sr,3 Day ,#NA
+iu update case,major fault (haya karima),dont missing sr,5 Day ,#NA
+iu update case,cut cable and close code (82) & (81),message for fixed by te,3 Day ,#NA
+iu update case,stolen cable,if update in tts,5 Day ,#NA
+iu update case,line out of service,if update in tts,3 Day ,#NA
+iu update case,"bragin, morkzat and microwave",if update in tts,3 Day ,#NA
+iu update case,restricted are and political circumstance,if update in tts,No Estimated Time,#NA
+iu update case,closed code 'raisers problem',inform customer that follow up will be done within,2 Hours,#NA
+tts pools case,pilot follow up,team handle internal wiring,2H,#NA
+tts pools case,pilot sls,team handle need optimization case,1H,#NA
+tts pools case,noc,team handle logical case,2:5 H,#NA
+tts pools case,pending fixing te iu,customer should follow with us,3 Days,#NA
+tts pools case,duc,team handle remove customer from family pool,2:5H,#NA
+tts pools case,installing operation,"responsible for fixing damaged ports and modifying matrix data | other governs and for cabins, uno, cable ",Cairo and Alex : 2 WD | [in all governments] : 5 WD,#NA
+system handling case,submit error or submit not act in tts,create IR in IR cases dont forget to take snap shot from BSS error,3 WD,#NA
+system handling case,missing dsl exchange name,create IR in IR cases dont forget to take snap shot from BSS error,3 WD,#NA
+non technical case,New Subscription,if cst new service,48 WH,
+non technical case,Transfer From Orange to WE,"Via Branched ,Mail,Fax & 111",24 H,
+non technical case,Balance function,Create IR in IR case to add 3L.E to cst,30 Min,
+non technical case,Corporate Cst,Change Offering to New Package,1 WD,
+non technical case,Individual case,Create Sr in Bss with clear comment and snap shot from issue,72H,
+non technical case,Change Port Only,If Change requires Change Port,48H,
+non technical case,Change Port and Card,If Change requires Change Port & Card,WD,
+non technical case,suspension Manual Dunning,TT>Resume manual dunning suspension,1H,
+non technical case,Service Cancellation,Via WE App & E-Care,4H,
+non technical case,Service Cancellation,Via Flagships & Exchanges,1WD,
+non technical case,Refund,Via Branched,5WD,
+payment case,Bank account & Check,sent Resipt via mail,3 WD,
+payment case,Payment Via We app& E-care,Call Us After 1H If Not Appear Create TT,2 H,
+payment case,Payment Via E-Machines,Create TT after outage or no Outage,48 WH,
+payment case,Outage Payment,Inform cst to call us after,24 H if pay via Machine | 24WH if pay via bank app,
+payment case,Payment Via Khadamaty,cst will wait 24H after that create TT,2 Days,
+payment case,Auto pay customer,TT for Withdraw from Visa,2 Days,
+non technical concession case,Disabled by mistake,Create TT with Clear Cst objection,"1H from 8 : 9
+ Friday Only From 2 : 9",
+non technical concession case,Package removed by Root Operator,Removed by mistake,"1H from 8 : 9
+ Friday Only From 2 : 9",
+non technical concession case,Change Port Compensation,In Case Delay for done Order,"1H from 8 : 9
+ Friday Only From 2 : 9",
+non technical concession case,Downgraded By Mistake,Check Days From Matrix Logs,"2H from 8 : 9
+ Friday Only From 2 : 9",
+non technical concession case,Enable By Mistake,No Usage and No Know Start date,"2H from 8 : 9
+ Friday Only From 2 : 9",
+non technical concession case,Individual Cases Compensation,Blocked Matrix & Suspended case,"2H from 8 : 9
+ Friday Only From 2 : 9",
+non technical concession case,Concession Retention,Retention offer to cst,"2H from 8 : 9
+ Friday Only From 2 : 9",
+non technical concession case,"None Technical Concession
+ Revalidation",Create TT with Clear Cst objection,"2H from 8 : 9
+ Friday Only From 2 : 9",
+non technical concession case,Resumption Before Change offering Completed,TT From Branch,"2H from 8 : 9
+ Friday Only From 2 : 9",
+non technical concession case,Resumption Before Change offering Completed,TT From Customer Care,48 WH,
+non technical concession case,Delete Matrix,Create TT with Clear Cst objection,"2H from 8 : 9
+ Friday Only From 2 : 9",
+non technical concession case,Recharge By Mistake,Create IR to remove package,30 Min,
+technical concession case,Concession,Create TT with same issue,"2H from 8 : 9 
+ Friday Only From 2 : 9",
+technical concession case,Stolen Cable Concession,Create TT,21 WD,
+technical concession case,Revalidation Technical Concession,"Create TT
+ with Clear Cst objection","SLA : 24H
+ CLM 23H Billing 1H",
+technical concession case,Satisfaction Concession & Retention,Retention offer to cst,1 H ( From 9 AM to 9 PM ),
