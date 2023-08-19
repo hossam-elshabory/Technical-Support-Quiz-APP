@@ -17,7 +17,26 @@ def get_sla_by_name(input_name, dataframe):
         return None
 
 
-st.title("⌚ SLA Chat")
+st.title("⌚ SLA Chat Search 🔍")
+
+st.markdown(
+    '<div style="background-color: #e6f7ff; padding: 10px; border-radius: 5px; font-family: Cairo; direction: rtl;">'
+    '<span style="color: #0066cc; font-weight: bold;">🔰اكتب اسم ال SLA زي ما مكتويه في ال PDF و هيطلعلك الناتج.</span>'
+    "</div>",
+    unsafe_allow_html=True,
+)
+
+st.write("")
+
+st.markdown(
+    '<div style="background-color: #ffeeba; padding: 10px; border-radius: 5px; font-family: Cairo; direction: rtl;">'
+    '<span style="color: #ff9900; font-weight: bold;">⚠️لو مكتبتش الاسم بظبط هيطلعلك ال SLA الاسمها قريبه منها.</span>'
+    "</div>",
+    unsafe_allow_html=True,
+)
+
+st.markdown("---")
+
 
 if "messages" not in st.session_state:
     st.session_state.messages = []

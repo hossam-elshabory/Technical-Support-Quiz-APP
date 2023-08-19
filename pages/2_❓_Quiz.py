@@ -1,10 +1,11 @@
 import streamlit as st
 from questions import questions
 import random
+from typing import Set
 
 
 def main():
-    st.title("WE Tranning Quiz Archive.📦")
+    st.title("WE Training Quiz Archive.📦")
     st.markdown("---")
 
     if "question_index" not in st.session_state:
@@ -14,11 +15,33 @@ def main():
     score = st.session_state.score
     wrong_answers = st.session_state.wrong_answers
 
-    display_message_to_users()
-    restart_button()
+    display_message_to_users()  # Display message first
 
-    if question_index < len(questions):
-        question_data = questions[question_index]
+    st.write("")
+
+    display_filter_options()  # Then display multiselect widget
+
+    st.markdown("---")
+
+    if "selected_days" in st.session_state:
+        selected_days = st.session_state.selected_days
+        filtered_questions = filter_questions_by_days(questions, selected_days)
+        total_questions = len(filtered_questions)
+    else:
+        selected_days = set()
+        filtered_questions = questions
+        total_questions = len(questions)
+
+    col1, col2 = st.columns(2)
+    with col1:
+        display_progress_score(question_index, score)
+    with col2:
+        restart_button()
+
+    st.markdown("---")
+
+    if question_index < len(filtered_questions):
+        question_data = filtered_questions[question_index]
 
         display_question(question_index + 1, question_data)
 
@@ -29,23 +52,35 @@ def main():
                 st.experimental_rerun()
 
         st.markdown("---")
-        display_progress_bar(question_index, len(questions))
+        display_progress_bar(question_index, len(filtered_questions))
 
     else:
-        display_quiz_results(score, len(questions), wrong_answers)
+        display_quiz_results(score, len(filtered_questions), wrong_answers)
 
 
 def initialize_session_state():
     st.session_state.question_index = 0
     st.session_state.score = 0
     st.session_state.wrong_answers = []
-
-    # Shuffle the questions list
     random.shuffle(questions)
-
-    # Shuffle answer options for each question
     for question in questions:
         random.shuffle(question["options"])
+
+
+def display_filter_options():
+    days = set([question["day"] for question in questions])
+    selected_days = st.multiselect(
+        "Select days of Quiz:", ["All"] + list(days), default=["All"]
+    )
+    if "All" in selected_days:
+        selected_days = list(days)
+    st.session_state.selected_days = selected_days
+
+
+def filter_questions_by_days(questions, selected_days):
+    if "All" in selected_days:
+        return questions
+    return [question for question in questions if question["day"] in selected_days]
 
 
 def display_message_to_users():
@@ -55,18 +90,15 @@ def display_message_to_users():
         "</div>",
         unsafe_allow_html=True,
     )
-    st.markdown("---")
+
+
+def display_progress_score(question_index, score):
+    st.write(f"Question: {question_index + 1}/{len(questions)}")
+    st.write(f"Score: {score}/{len(questions)}")
 
 
 def display_question(question_number, question_data):
-    st.sidebar.header("Quiz Progress")
-    st.sidebar.write(f"Question: {question_number}/{len(questions)}")
-    st.sidebar.write(f"Score: {st.session_state.score}/{len(questions)}")
-
-    # Display English question
     st.subheader(question_data["eng_question"])
-
-    # Display Arabic question (right-to-left) using Cairo font
     st.markdown(
         f'<div style="text-align: right; direction: rtl; font-family: Cairo, sans-serif;">'
         f'{question_data["arabic_question"]}'
@@ -88,7 +120,6 @@ def check_answer(selected_option, question_data, score, wrong_answers):
                 "correct_answer": question_data["correct_answer"],
             }
         )
-
     st.session_state.question_index += 1
     st.session_state.score = score
     st.session_state.wrong_answers = wrong_answers
@@ -106,22 +137,13 @@ def display_progress_bar(question_index, total_questions):
 
 def display_quiz_results(score, total_questions, wrong_answers):
     st.subheader("Quiz Completed!")
-
-    # Calculate the percentage of correct answers
     percentage_correct = (score / total_questions) * 100
-
-    # Display final score card
     st.subheader("Final Score:")
     st.markdown(f"**Correct Answers:** {score} out of {total_questions}")
     st.markdown(
         f"**Percentage Correct:** {percentage_correct:.1f}%", unsafe_allow_html=True
     )
-
     st.markdown("---")
-
-    st.sidebar.subheader("Quiz Results")
-    st.sidebar.write(f"Final Score: {score}/{total_questions}")
-
     if len(wrong_answers) > 0:
         st.markdown(
             "#### <span style='color:red; font-weight:bold;'>Wrong Answered Questions:</span>",
@@ -140,13 +162,11 @@ def display_wrong_answer(wrong_answer, index):
     with expander:
         st.subheader("English Question:")
         st.write(wrong_answer["eng_question"])
-
         st.subheader("Arabic Question:")
         st.markdown(
             f'<div style="text-align: right; direction: rtl;">{wrong_answer["arabic_question"]}</div>',
             unsafe_allow_html=True,
         )
-
         formatted_selected_answer = color_answer(
             wrong_answer["selected_answer"], wrong_answer["correct_answer"]
         )
@@ -160,10 +180,9 @@ def display_wrong_answer(wrong_answer, index):
 
 
 def restart_button():
-    if st.sidebar.button("Restart Quiz"):
+    if st.button("Restart Quiz"):
         initialize_session_state()
         st.experimental_rerun()
-    st.sidebar.markdown("---")
 
 
 def color_answer(answer, correct_answer):
