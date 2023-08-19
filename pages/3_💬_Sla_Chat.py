@@ -3,7 +3,7 @@ import pandas as pd
 import fuzzywuzzy
 from fuzzywuzzy import process
 
-df = pd.read_csv("../sla.csv")
+df = pd.read_csv("./sla.csv")
 
 
 def get_sla_by_name(input_name, dataframe):

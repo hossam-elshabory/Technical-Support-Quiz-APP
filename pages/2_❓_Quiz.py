@@ -2,8 +2,6 @@ import streamlit as st
 from questions import questions
 import random
 
-PASSWORD = "123"
-
 
 def main():
     st.title("WE Tranning Quiz Archive.📦")
@@ -16,53 +14,25 @@ def main():
     score = st.session_state.score
     wrong_answers = st.session_state.wrong_answers
 
-    authenticated = st.session_state.get("authenticated", False)
+    display_message_to_users()
+    restart_button()
 
-    if authenticated:
-        display_message_to_users()
-        restart_button()
-        if question_index < len(questions):
-            question_data = questions[question_index]
+    if question_index < len(questions):
+        question_data = questions[question_index]
 
-            display_question(question_index + 1, question_data)
+        display_question(question_index + 1, question_data)
 
-            for option in question_data["options"]:
-                if st.button(option, key=option):
-                    selected_option = option
-                    check_answer(selected_option, question_data, score, wrong_answers)
-                    st.experimental_rerun()
+        for option in question_data["options"]:
+            if st.button(option, key=option):
+                selected_option = option
+                check_answer(selected_option, question_data, score, wrong_answers)
+                st.experimental_rerun()
 
-            st.markdown("---")
-            display_progress_bar(question_index, len(questions))
-
-        else:
-            display_quiz_results(score, len(questions), wrong_answers)
+        st.markdown("---")
+        display_progress_bar(question_index, len(questions))
 
     else:
-        authenticate()
-
-
-def authenticate():
-    # Display the pop-up message with updated styling
-    st.markdown(
-        '<div style="background-color: #FFDD00; padding: 10px; border-radius: 5px; text-align: center; font-weight: bold; font-family: Cairo, sans-serif; color: black;">'
-        "دا مش كويز رسمي او تبع اي حاجة رسمية خاصة بلتدريب الرسمي, دي مجرد اداه مجمعه كل الاسئلة بتاعت الكويزات اليومية البنحلها كل يوم عشان ندرب عليها تاني."
-        "</div>",
-        unsafe_allow_html=True,
-    )
-
-    st.sidebar.markdown(
-        '<div style="background-color: #FFDD00; padding: 10px; border-radius: 5px; text-align: center; font-weight: bold; font-family: Cairo, sans-serif; color: red;">'
-        "الباسورد 123 و دا مش كويز رسمي"
-        "</div>",
-        unsafe_allow_html=True,
-    )
-    password_input = st.sidebar.text_input(
-        "", type="password", key="password_input", help="كود الباسورد: 123"
-    )
-    if password_input == PASSWORD:
-        st.session_state["authenticated"] = True
-        st.experimental_rerun()
+        display_quiz_results(score, len(questions), wrong_answers)
 
 
 def initialize_session_state():
