@@ -32,11 +32,10 @@ def main():
         filtered_questions = questions
         total_questions = len(questions)
 
-    col1, col2 = st.columns(2)
-    with col1:
-        display_progress_score(question_index, score)
-    with col2:
-        restart_button()
+    display_progress_score(
+        question_index, score, total_questions_in_day=len(filtered_questions)
+    )
+    restart_button()
 
     st.markdown("---")
 
@@ -62,6 +61,9 @@ def initialize_session_state():
     st.session_state.question_index = 0
     st.session_state.score = 0
     st.session_state.wrong_answers = []
+    st.session_state.total_questions = len(
+        questions
+    )  # Store the total number of questions
     random.shuffle(questions)
     for question in questions:
         random.shuffle(question["options"])
@@ -70,7 +72,7 @@ def initialize_session_state():
 def display_filter_options():
     days = set([question["day"] for question in questions])
     selected_days = st.multiselect(
-        "Select days of Quiz:", ["All"] + list(days), default=["All"]
+        "Select days of Quiz:", ["All"] + sorted(list(days)), default=["All"]
     )
     if "All" in selected_days:
         selected_days = list(days)
@@ -92,9 +94,9 @@ def display_message_to_users():
     )
 
 
-def display_progress_score(question_index, score):
-    st.write(f"Question: {question_index + 1}/{len(questions)}")
-    st.write(f"Score: {score}/{len(questions)}")
+def display_progress_score(question_index, score, total_questions_in_day):
+    st.write(f"Question: {question_index + 1}/{total_questions_in_day}")
+    st.write(f"Score: {score}/{total_questions_in_day}")
 
 
 def display_question(question_number, question_data):
