@@ -24,9 +24,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-
 st.write("")
-
 
 col1, col2, col3 = st.columns(3)
 
@@ -44,12 +42,6 @@ with col3:
         switch_page("Matrial_PDFS")
 
 
-def time_until(target_date):
-    current_time = datetime.now()
-    time_difference = target_date - current_time
-    return time_difference
-
-
 def format_time_difference(time_difference):
     total_seconds = int(time_difference.total_seconds())
     hours, remainder = divmod(total_seconds, 3600)
@@ -65,8 +57,8 @@ def main():
     )
 
     quiz_dates = {
-        "Second Quiz": datetime(2023, 8, 22, 10, 0, 0),  # Replace with your quiz time
-        "Third Quiz": datetime(2023, 8, 31, 15, 30, 0),  # Replace with your quiz time
+        "Second Quiz": datetime(2023, 8, 22),  # Replace with your quiz time
+        "Third Quiz": datetime(2023, 8, 31),  # Replace with your quiz time
     }
 
     card_style = "background-color: #333; padding: 15px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); border: 1px solid #555; border-radius: 5px; margin-bottom: 10px;"
@@ -75,7 +67,7 @@ def main():
     countdown_style = "color: #ff5733;"
 
     for quiz_name, quiz_date in quiz_dates.items():
-        time_difference = time_until(quiz_date)
+        time_difference = quiz_date - datetime.now()
         hours, minutes, seconds = format_time_difference(time_difference)
 
         countdown_div = f"<div id='{quiz_name}_countdown' style='{countdown_style}'>{hours:02}:{minutes:02}:{seconds:02}</div>"
@@ -84,37 +76,8 @@ def main():
         st.write(
             f"<div style='{card_style}'>"
             f"<strong style='{quiz_name_style}'>{quiz_name}:</strong> "
-            f"<u style='{time_style}'>{quiz_date.strftime('%B %d, %Y %I:%M %p')}</u> - Countdown: {countdown_div}"
+            f"<u style='{time_style}'>{quiz_date.strftime('%B %d, %Y')}</u> - Countdown: {countdown_div}"
             f"</div>",
-            unsafe_allow_html=True,
-        )
-
-        # JavaScript for live countdown updates
-        st.markdown(
-            f"""
-            <script>
-                function updateCountdown_{quiz_name}() {{
-                    var countdownDiv = document.getElementById('{quiz_name}_countdown');
-                    var now = new Date().getTime();
-                    var targetTime = new Date('{quiz_date.strftime('%Y-%m-%dT%H:%M:%S')}').getTime();
-                    var timeDifference = targetTime - now;
-
-                    var hours = Math.floor(timeDifference / (1000 * 60 * 60));
-                    var minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
-                    var seconds = Math.floor((timeDifference % (1000 * 60)) / 1000);
-
-                    countdownDiv.innerHTML = hours.toString().padStart(2, '0') + ':' + minutes.toString().padStart(2, '0') + ':' + seconds.toString().padStart(2, '0');
-
-                    if (timeDifference <= 0) {{
-                        countdownDiv.style.color = 'green';
-                        countdownDiv.innerHTML = 'Time is up!';
-                    }} else {{
-                        setTimeout(updateCountdown_{quiz_name}, 1000);
-                    }}
-                }}
-                updateCountdown_{quiz_name}();
-            </script>
-            """,
             unsafe_allow_html=True,
         )
 
