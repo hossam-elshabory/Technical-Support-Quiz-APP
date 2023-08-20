@@ -40,7 +40,7 @@ with col2:
 with col3:
     sla_chat = st.button("💬 Find SLA of CASE ⌚")
     if sla_chat:
-        switch_page("Matrial_PDFS")
+        switch_page("Sla_Chat")
 
 
 def format_time_difference(time_difference):
