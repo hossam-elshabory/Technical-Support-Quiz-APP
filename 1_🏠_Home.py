@@ -24,7 +24,7 @@ st.markdown("---")
 
 st.write("")
 
-col1, col2, col3 = st.columns(3)
+col1, col2, col3, col4 = st.columns(4)
 
 with col1:
     quiz_page = st.button("✍Take A Quiz !!")
@@ -38,3 +38,7 @@ with col3:
     sla_chat = st.button("💬 Find SLA of CASE ⌚")
     if sla_chat:
         switch_page("Sla_Chat")
+with col4:
+    q_search = st.button("🔍 Search Question ❓")
+    if q_search:
+        switch_page("Question_Lookup")
