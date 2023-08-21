@@ -398,7 +398,7 @@ questions = [
             "noise issue",
         ],
         "correct_answer": "Physical instability",
-        "day": "Day 08 - Voice Cases",
+        "day": "Day - 08 Voice Cases",
     },
     {
         "eng_question": "in voice verification .. After calling CST's on landline number CCA found Record Massage الرقم مرفوع مؤقت من الخدمة  CCA action will be…?",
@@ -409,7 +409,7 @@ questions = [
             "Ask CST to pay landline bills اطلب من العميل دفع الفواتير الارضي",
         ],
         "correct_answer": "Consider Voice Down + Create TT Create TT + اعتبار الحرارة فاصلة",
-        "day": "Day 08 - Voice Cases",
+        "day": "Day - 08 Voice Cases",
     },
     {
         "eng_question": "CST Follow voice down ticket after 25 hour from escalating it and ticket still on IU CCA action will be …?",
@@ -420,7 +420,7 @@ questions = [
             "Inform CST Passed SLA + Create IR +create SR ​​FBB Tech Problem---​Voice Down​---Follow Up after SLA Create IR +create SR ​​FBB Tech Problem---​Voice Down​---Follow Up after SLA + اخبار العميل بتجاوز المدة",
         ],
         "correct_answer": "Inform CST Passed SLA + Create IR +create SR ​​FBB Tech Problem---​Voice Down​---Follow Up after SLA Create IR +create SR ​​FBB Tech Problem---​Voice Down​---Follow Up after SLA + اخبار العميل بتجاوز المدة",
-        "day": "Day 08 - Voice Cases",
+        "day": "Day - 08 Voice Cases",
     },
     {
         "eng_question": "CST has problem in Call waiting service CCA action will be ..?",
@@ -431,7 +431,7 @@ questions = [
             "Inform CST to pay all landline bills اخبار العميل بدفع فواتير الخط الارضي",
         ],
         "correct_answer": "Transfer CST to fixed line VDN تحويل العميل لقسم الخط الارضي",
-        "day": "Day 08 - Voice Cases",
+        "day": "Day - 08 Voice Cases",
     },
     {
         "eng_question": "Customer problem voice not working or out of service after pay bill after cut off and informed that issue started before cutoff date , CCA Right Action",
@@ -442,7 +442,7 @@ questions = [
             "Create UCRM ( RCR Complaint ) UCRM عمل شكوى على",
         ],
         "correct_answer": "Phone set available step السؤال عن عدة تليفون متاحة",
-        "day": "Day 08 - Voice Cases",
+        "day": "Day - 08 Voice Cases",
     },
     {
         "eng_question": "CCA found that CST's landline number has work order رفع نهائي متأخرات أقساط  In Customer Profile Tool ..... CCA action will be…?",
@@ -453,7 +453,7 @@ questions = [
             "Follow change phone number process change phone number متابعة اجراءات",
         ],
         "correct_answer": "Inform CST to pay all due installments اخبار العميل دفع الاقساط  المستحقة",
-        "day": "Day 08 - Voice Cases",
+        "day": "Day - 08 Voice Cases",
     },
     {
         "eng_question": "Voice overlapping can happened between?",
@@ -464,7 +464,7 @@ questions = [
             "2 numbers in the same exchange رقمين فى نفس السنترال",
         ],
         "correct_answer": "2 numbers in the same exchange رقمين فى نفس السنترال",
-        "day": "Day 08 - Voice Cases",
+        "day": "Day - 08 Voice Cases",
     },
     {
         "eng_question": "CCA must check voice verification before escalating?",
@@ -475,7 +475,7 @@ questions = [
             "logical cases",
         ],
         "correct_answer": "All physical cases",
-        "day": "Day 08 - Voice Cases",
+        "day": "Day - 08 Voice Cases",
     },
     {
         "eng_question": "Voice Cases override any physical case?",
@@ -485,7 +485,7 @@ questions = [
             "Flase",
         ],
         "correct_answer": "True",
-        "day": "Day 08 - Voice Cases",
+        "day": "Day - 08 Voice Cases",
     },
     {
         "eng_question": "Voice Down TT SLA is?",
@@ -496,7 +496,7 @@ questions = [
             "3 Days",
         ],
         "correct_answer": "1 Days",
-        "day": "Day 08 - Voice Cases",
+        "day": "Day - 08 Voice Cases",
     },
     {
         "eng_question": "If CST has landline bill with 75 LE CCA action will be?",
@@ -507,7 +507,7 @@ questions = [
             "Check grace period",
         ],
         "correct_answer": "Check grace period",
-        "day": "Day 08 - Voice Cases",
+        "day": "Day - 08 Voice Cases",
     },
     {
         "eng_question": "If CST is calling from the same landline number that's means?",
@@ -518,7 +518,7 @@ questions = [
             "Voice is working fine",
         ],
         "correct_answer": "Voice is working fine",
-        "day": "Day 08 - Voice Cases",
+        "day": "Day - 08 Voice Cases",
     },
     {
         "eng_question": "CST is calling from different landline number and inform us that voice is working CCA action will be ?",
@@ -529,7 +529,7 @@ questions = [
             "Should confirm with CST first if tested voice via phone set before call",
         ],
         "correct_answer": "Should confirm with CST first if tested voice via phone set before call",
-        "day": "Day 08 - Voice Cases",
+        "day": "Day - 08 Voice Cases",
     },
     {
         "eng_question": "CST is calling from different landline number and inform us that voice is working but havn't phone set available, CCA action will be?",
@@ -540,7 +540,7 @@ questions = [
             "Put CST on hold and call CST landline number",
         ],
         "correct_answer": "Put CST on hold and call CST landline number",
-        "day": "Day 08 - Voice Cases",
+        "day": "Day - 08 Voice Cases",
     },
     {
         "eng_question": "If we call CST on his ADSL number to check voice status, we find another person respond, your action",
@@ -551,7 +551,7 @@ questions = [
             "Confirm landline number",
         ],
         "correct_answer": "Confirm landline number",
-        "day": "Day 08 - Voice Cases",
+        "day": "Day - 08 Voice Cases",
     },
     {
         "eng_question": "CST has data down after checking voice CCA found voice is also down, CCA will escalate?",
@@ -562,7 +562,7 @@ questions = [
             "Data and Voice Down",
         ],
         "correct_answer": "Data and Voice Down",
-        "day": "Day 08 - Voice Cases",
+        "day": "Day - 08 Voice Cases",
     },
     {
         "eng_question": "Customer Problem Voice not working or out of service after paid his bill after cut off date and CST confirmed that issue started from cut off date?",
@@ -573,7 +573,7 @@ questions = [
             "Create UCRM (RCR Complain)",
         ],
         "correct_answer": "Create UCRM (RCR Complain)",
-        "day": "Day 08 - Voice Cases",
+        "day": "Day - 08 Voice Cases",
     },
     {
         "eng_question": "Voice not working or out of service and voice problem wasn't due to unpaid landline bills and still exist after paying the bill CCA action will be?",
@@ -584,7 +584,7 @@ questions = [
             "Phone set available step",
         ],
         "correct_answer": "Phone set available step",
-        "day": "Day 08 - Voice Cases",
+        "day": "Day - 08 Voice Cases",
     },
     {
         "eng_question": "The first step of voice verification if CST is not migrated to BSS is",
@@ -595,7 +595,7 @@ questions = [
             "Check voice from main",
         ],
         "correct_answer": "Check landline bills",
-        "day": "Day 08 - Voice Cases",
+        "day": "Day - 08 Voice Cases",
     },
     {
         "eng_question": "Voice verification steps, that's meaning you have to check landline bills and .. ?",
@@ -606,7 +606,7 @@ questions = [
             "Check voice status",
         ],
         "correct_answer": "Check voice status",
-        "day": "Day 08 - Voice Cases",
+        "day": "Day - 08 Voice Cases",
     },
     {
         "eng_question": "If CST has Power Failure which of the following you will do with CST",
@@ -807,7 +807,7 @@ questions = [
     },
     {
         "eng_question": "SLA for internal wiring TT",
-        "arabic_question": "ال SLA بتاع ال interal wiring",
+        "arabic_question": "ال SLA بتاع ال internal wiring",
         "options": [
             "2 hours",
             "1 hour",
@@ -826,5 +826,218 @@ questions = [
         ],
         "correct_answer": "Power Failure",
         "day": "Day - 09 Data Down Cases",
+    },
+    {
+        "eng_question": "While follow with cst WACP Case and Cst Line Status is Down and Matrix Status is also Down so the next step is :",
+        "arabic_question": "في حالة متابعة خطوات ال WCAP كانت حالة الخط عند العميل :down وع ال Matrix: down , الخطوة التالية هتكون:",
+        "options": [
+            "Troubleshoot as Data Down نتابع Data Down",
+            "Escalate to IU نصعد لل IU",
+            " Inform Cst to check his CPE نقول للعميل يفحص الراوتر",
+        ],
+        "correct_answer": "Troubleshoot as Data Down نتابع Data Down",
+        "day": "Day - 10 Wrong Card and Port",
+    },
+    {
+        "eng_question": "In Case CCA will Re-escalate WCAP to IU as a second escalation , So the right SLA is :",
+        "arabic_question": "في حالة اننا هنعيد تصعيد ال WCAP للمرة التانية,, ال SLA الصحيحة هتكون",
+        "options": [
+            "1 Working Day يوم عمل",
+            "1 Day يوم",
+            "2 Days يومين",
+        ],
+        "correct_answer": "1 Day يوم",
+        "day": "Day - 10 Wrong Card and Port",
+    },
+    {
+        "eng_question": " In case ticket returned with update ( Outside TEData ) , CCA right action according to the customer's case :",
+        "arabic_question": "في حالة رجوع الشكوى ب update ( Outside TEData ) . فالاجراء الصحيح على حسب مشكلة العميل هيكون:",
+        "options": [
+            "will create the below SR ( Broadband>Technical>ADSL/VDSL>CC service Activation>CPE Configuration ) - هنعمل ال SR دى ( Broadband>Technical>ADSL/VDSL>CC service Activation>CPE Configuration )",
+            "will create the below SR ( FBB Tech Inquiry>Services>Change Box - No Technical Issue ) - هنعمل ال SR دى ( FBB Tech Inquiry>Services>Change Box - No Technical Issue )",
+            "will create the below SR ( Broadband>Technical>ADSL/VDSL>CC service Activation>Global Problem - هنعمل ال SR دى ( Broadband>Technical>ADSL/VDSL>CC service Activation>Global Problem )",
+        ],
+        "correct_answer": "will create the below SR ( Broadband>Technical>ADSL/VDSL>CC service Activation>CPE Configuration ) - هنعمل ال SR دى ( Broadband>Technical>ADSL/VDSL>CC service Activation>CPE Configuration )",
+        "day": "Day - 10 Wrong Card and Port",
+    },
+    {
+        "eng_question": "In case the ticket returned with updated CPE problem close code 74  , Cst from Cairo and insist to check with another available CPE , CCA right action is",
+        "arabic_question": "في حالة ان الشكوى رجعت ب updated CPE problem close code 74  , والعميل من القاهرة واصر انه يجرب براوتر تانى , الاجراء الصحيح هيكون:",
+        "options": [
+            "will inform the Customer that he can check with another CPE normally - نقول للعميل انه يقدر يجرب براوتر تانى عادى",
+            "will inform the customer that he should check the CPE on CSO Mandatory - ضرورى اننا نقول للعميل انه يفحص الراوتر فى الفرع",
+        ],
+        "correct_answer": "will inform the customer that he should check the CPE on CSO Mandatory - ضرورى اننا نقول للعميل انه يفحص الراوتر فى الفرع",
+        "day": "Day - 10 Wrong Card and Port",
+    },
+    {
+        "eng_question": "In case WCAP CST disconnect phone cable from CPE and ADSL still UP , It is CPE Problem :",
+        "arabic_question": "في حالة ال WCAP , العميل قام بفصل كابل الحرارة من الراوتر ولكن لمبة ال DSL مازالت up , هتكون كده مشكلة راوتر",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "True",
+        "day": "Day - 10 Wrong Card and Port",
+    },
+    {
+        "eng_question": "Cst has Ticket Data Down with Update ( Close Code (82): External problem- cable maintenance needed ) , So CCA will Inform cst  SLA :",
+        "arabic_question": "شكوى data down وعليها Update ( Close Code (82): External problem- cable maintenance needed )  , هنقول للعميل SLA :",
+        "options": [
+            "2 Day - يومين",
+            " No estimated time - مفيش وقت محدد",
+            "Case escalated to the responsible team and we are waiting for their update with 3 days SLA - الشكوى اتصعدت للقسم المختص بيها واحنا منتظرين الرد منهم وهيكون خلال 3 ايام",
+        ],
+        "correct_answer": "Case escalated to the responsible team and we are waiting for their update with 3 days SLA - الشكوى اتصعدت للقسم المختص بيها واحنا منتظرين الرد منهم وهيكون خلال 3 ايام",
+        "day": "Day - 10 Wrong Card and Port",
+    },
+    {
+        "eng_question": "In wrong card and port or disable lines, CCA shouldn't search on Matrix using ADSL & customer account no. to avoid any indeterminate for duplicated matrix :",
+        "arabic_question": "فى حالة ال WCAP او الline Disabled ,, ال CCA مش لازم يعمل بحث على ال matrix باستخدام الرقم الارضى و CST Account , لتجنب اى خطأ زى ال Duplicated matrix",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "False",
+        "day": "Day - 10 Wrong Card and Port",
+    },
+    {
+        "eng_question": "If the Customer number belongs to Hayah Karima project and cst has Major Fault with no estimated time , SLA will be :",
+        "arabic_question": "لو خط العميل ينتمى لمشروع حياة كريمة وفيه Major fault problem من غير وقت محدد فال SLA اللى هنقولها للعميل هتكون:",
+        "options": [
+            "3 working days - 3 ايام عمل",
+            "3 ايام عمل - 3ايام",
+            "5 Days - 5 ايام",
+        ],
+        "correct_answer": "5 Days - 5 ايام",
+        "day": "Day - 10 Wrong Card and Port",
+    },
+    {
+        "eng_question": " In case CCA follow WCAP case and Cst  Line Status from main : Down and Matrix : UP, No have Logs , So CCA right action :",
+        "arabic_question": "في حالة متابعة ال WCAP مع العميل كانت حالة الخط عنده: down وع ال matrix: up ولا يوجد logs ,, الاجراء الصحيح هيكون:",
+        "options": [
+            "Direct the customer to CSO to check the CPE - نوجه العميل للفرع عشان يفحص الراوتر",
+            "Should reset & configure - لازم نعمل Reset& configure",
+            " Escalate to IU - نصعد لل IU",
+        ],
+        "correct_answer": " Escalate to IU - نصعد لل IU",
+        "day": "Day - 10 Wrong Card and Port",
+    },
+    {
+        "eng_question": "customer which has Major Fault update with no estimated time should follow on his case with us :",
+        "arabic_question": "العميل اللى عنده Major fault problem بدون وقت محدد هو اللى بيتابع معانا على الشكوى",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "True",
+        "day": "Day - 10 Wrong Card and Port",
+    },
+    {
+        "eng_question": "while follow with CST WCAP case and CST line status is down and matrix is UP, so the next step is",
+        "arabic_question": "و انت بتابع مع العميل في حالة WCAP و حالة خط العميل Down و ال matrix up ايه الخطوه الجيه ؟",
+        "options": [
+            "Follow Data status from main step",
+            "Check Log IP Step",
+            "Escalate to IU",
+        ],
+        "correct_answer": "Follow Data status from main step",
+        "day": "Day - 10 Wrong Card and Port",
+    },
+    {
+        "eng_question": "Customer Follow Up escalated ticket (Wrong Card and Port) and the TKT still within SLA, So right SR is",
+        "arabic_question": "العميل بيعمل follow up لحالة Wrong card and port و ال ticket ليسا في فتره ال SLA",
+        "options": [
+            "FBB Tech Problem > Wrong card and port > Follow up",
+            "FBB Tech Problem > Wrong card and port > Re Escalation",
+            "FBB Tech Problem > Wrong card and port > Follow up afte SLA",
+        ],
+        "correct_answer": "FBB Tech Problem > Wrong card and port > Follow up",
+        "day": "Day - 10 Wrong Card and Port",
+    },
+    {
+        "eng_question": "CCA should not stop escalation to IU due to any reason while making rest & configuration such as CPE page can't be accessed",
+        "arabic_question": "ال agent مش مفروض يوقف عملية ال escalation لأي سبب من الاسباب اثناء عمل reset & configuration زي مثلا ان صفحة الروتر مش بتخش",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "True",
+        "day": "Day - 10 Wrong Card and Port",
+    },
+    {
+        "eng_question": "CST has ticket WCAP in IU pool and TKT passed SLA, so CCA will inform CSA SLA",
+        "arabic_question": "العميل عندو ticket في IU pool, و ال TKT عديت فتره ال SLA هتبلغ العميل ايه ؟,",
+        "options": [
+            "1 Working day",
+            "1 Day",
+            "2 Days",
+        ],
+        "correct_answer": "1 Day",
+        "day": "Day - 10 Wrong Card and Port",
+    },
+    {
+        "eng_question": "Its not mandatory to ask customer for 2 mobiles numbers while escalating any physical case",
+        "arabic_question": "مش ضروري تسأل العميل علي رقمين تلفون في اي physical case",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "False",
+        "day": "Day - 10 Wrong Card and Port",
+    },
+    {
+        "eng_question": "In case WCAP CSE disconnected phone cable from CPE and ADSL still up, is it CPE problem ?",
+        "arabic_question": "لو عميل WCAP فصل كبل التلفون من ال CPE و لمبة ال ADSL ليسه UP, المشكله في ال CPE?",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "True",
+        "day": "Day - 10 Wrong Card and Port",
+    },
+    {
+        "eng_question": "Customer Follow up his ticket (Wrong Card and Port) And the TKT has update Major Fault within First SLA, so right SR",
+        "arabic_question": "العميل بيتايع ticket WCAP و ال ticket نزلها update major fault في اول SLA, هنعمل انهي SR",
+        "options": [
+            "FBB Tech Problem > Wrong Card and port > Major Fault",
+            "FBB Tech Problem > Wrong Card and port > Major Fault After SLA",
+            "FBB Tech Problem > Wrong Card and port > Major Fault within SLA",
+        ],
+        "correct_answer": "FBB Tech Problem > Wrong Card and port > Major Fault within SLA",
+        "day": "Day - 10 Wrong Card and Port",
+    },
+    {
+        "eng_question": "CST has ticker update (Abuser as per TE) and customer said that issue covered, so CCA right action is",
+        "arabic_question": "العميل عندو update (Abuser as per TE) و العميل بيقول المشكله اتحلت",
+        "options": [
+            "Escalate Normaly",
+            "Inform customer to check with his exchange first",
+            "Transfer CST to fixed Line VDN",
+        ],
+        "correct_answer": "Escalate Normaly",
+        "day": "Day - 10 Wrong Card and Port",
+    },
+    {
+        "eng_question": "Customer follow up his ticket (WCAP) and the TKT has update Major Fault Passed SLA and still in the same update afte RE-Escalation TKT, so right SR",
+        "arabic_question": "العميل بيعمل follow up علي ticket WCAP و ال ticket نزلها update Major Fault و ليسا في نفس ال Update يعد ال RE-Escalation",
+        "options": [
+            "FBB Tech Problem > Wrong Card and port > Major Fault",
+            "FBB Tech Problem > Wrong Card and port > Major Fault After SLA",
+            "FBB Tech Problem > Wrong Card and port > Major Fault within SLA",
+        ],
+        "correct_answer": "FBB Tech Problem > Wrong Card and port > Major Fault After SLA",
+        "day": "Day - 10 Wrong Card and Port",
+    },
+    {
+        "eng_question": "CST has ticket data down with update (Morkzat), so CCA will inform CST with SLA",
+        "arabic_question": "Ticket العميل فيها update (Morkzar) هنبلغ العميل ب SLA ايه",
+        "options": [
+            "2 Days",
+            "No Estimated time",
+            "3 Days",
+        ],
+        "correct_answer": "3 Days",
+        "day": "Day - 10 Wrong Card and Port",
     },
 ]

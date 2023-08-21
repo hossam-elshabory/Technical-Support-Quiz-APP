@@ -4,7 +4,11 @@ import random
 from typing import Set
 
 
-default_days = ["Day 08 - Voice Cases", "Day - 09 Data Down Cases"]
+default_days = [
+    "Day - 08 Voice Cases",
+    "Day - 09 Data Down Cases",
+    "Day - 10 Wrong Card and Port",
+]
 
 
 def main():
