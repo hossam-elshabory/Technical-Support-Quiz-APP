@@ -389,4 +389,223 @@ questions = [
         "correct_answer": "Trouble Ticket",
         "day": "Day 07 - Tools and Follow Up",
     },
+    {
+        "eng_question": "CST has noise problem and has physical instability issue CCA will handle …?",
+        "arabic_question": "موظف خدمة العملاء سيتابع noise problem and has physical instability issue عميل يواجه",
+        "options": [
+            "voice down",
+            "Physical instability",
+            "noise issue",
+        ],
+        "correct_answer": "Physical instability",
+        "day": "Day 08 - Voice Cases",
+    },
+    {
+        "eng_question": "in voice verification .. After calling CST's on landline number CCA found Record Massage الرقم مرفوع مؤقت من الخدمة  CCA action will be…?",
+        "arabic_question": "بعد الاتصال بالخط الارضي للعميل موظف خدمة العملاء وجد رسالة ( الرقم مرفوع مؤقت من الخدمة) ما هو الاجراء المناسب  voice verification اثناء",
+        "options": [
+            "Consider Voice Down + Create TT Create TT + اعتبار الحرارة فاصلة",
+            "Consider Voice Up + Create SR Create SR + اعتبار الحرارة شغالة",
+            "Ask CST to pay landline bills اطلب من العميل دفع الفواتير الارضي",
+        ],
+        "correct_answer": "Consider Voice Down + Create TT Create TT + اعتبار الحرارة فاصلة",
+        "day": "Day 08 - Voice Cases",
+    },
+    {
+        "eng_question": "CST Follow voice down ticket after 25 hour from escalating it and ticket still on IU CCA action will be …?",
+        "arabic_question": "ا هو الاجراء المناسب  IU  بعد 25 ساعة من تصعيد الشكوى ومازالت موجودة فى قسم voice down ticket عميل بيتابع على",
+        "options": [
+            "Re-escalate Ticket + create SR ​​FBB Tech Problem---​Voice Down​---​Re-Escalation create SR ​​FBB Tech Problem---​Voice Down​---​Re-Escalation + Ticket اعادة تصعيد"
+            "Inform CST Within  SLA +create SR ​​FBB Tech Problem---​Voice Down​---Follow Up create SR ​​FBB Tech Problem---​Voice Down​---Follow Up + اخبار العميل بانه فى خلال المدة",
+            "Inform CST Passed SLA + Create IR +create SR ​​FBB Tech Problem---​Voice Down​---Follow Up after SLA Create IR +create SR ​​FBB Tech Problem---​Voice Down​---Follow Up after SLA + اخبار العميل بتجاوز المدة",
+        ],
+        "correct_answer": "Inform CST Passed SLA + Create IR +create SR ​​FBB Tech Problem---​Voice Down​---Follow Up after SLA Create IR +create SR ​​FBB Tech Problem---​Voice Down​---Follow Up after SLA + اخبار العميل بتجاوز المدة",
+        "day": "Day 08 - Voice Cases",
+    },
+    {
+        "eng_question": "CST has problem in Call waiting service CCA action will be ..?",
+        "arabic_question": "ماهو الاجراء المناسب Call waiting عميل يواجه مشكلة فى خدمة",
+        "options": [
+            "Transfer CST to fixed line VDN تحويل العميل لقسم الخط الارضي"
+            "Escalate Voice Down Voice Down تصعيد",
+            "Inform CST to pay all landline bills اخبار العميل بدفع فواتير الخط الارضي",
+        ],
+        "correct_answer": "Transfer CST to fixed line VDN تحويل العميل لقسم الخط الارضي",
+        "day": "Day 08 - Voice Cases",
+    },
+    {
+        "eng_question": "Customer problem voice not working or out of service after pay bill after cut off and informed that issue started before cutoff date , CCA Right Action",
+        "arabic_question": "ما هو الاجراء المناسب cutoff date وابلغنا ان المشكلة بدأت قبل cut off عميل يواجه انقطاع الحرارة او خارج الخدمة بعد دفع الفاتورة بعد",
+        "options": [
+            "Phone set available step السؤال عن عدة تليفون متاحة",
+            "Transfer CST to fixed line Q تحويل العميل الى الخط الارضي",
+            "Create UCRM ( RCR Complaint ) UCRM عمل شكوى على",
+        ],
+        "correct_answer": "Phone set available step السؤال عن عدة تليفون متاحة",
+        "day": "Day 08 - Voice Cases",
+    },
+    {
+        "eng_question": "CCA found that CST's landline number has work order رفع نهائي متأخرات أقساط  In Customer Profile Tool ..... CCA action will be…?",
+        "arabic_question": "ماهو الاجراء المناسب Customer Profile Tool  موظف خدمة العملاء وجد امر الشغل الخاص بالخط الارضي للعميل ( رفع نهائي متأخرات أقساط)  فى",
+        "options": [
+            "Inform CST to pay all due installments اخبار العميل دفع الاقساط  المستحقة",
+            "Inform CST to pay all landline bills اخبار العميل دفع فواتير الخط الارضي",
+            "Follow change phone number process change phone number متابعة اجراءات",
+        ],
+        "correct_answer": "Inform CST to pay all due installments اخبار العميل دفع الاقساط  المستحقة",
+        "day": "Day 08 - Voice Cases",
+    },
+    {
+        "eng_question": "Voice overlapping can happened between?",
+        "arabic_question": "يمكن ان تحدث بين Voice overlapping",
+        "options": [
+            "2 numbers with same government رقمين فى نفس المحافظة",
+            "2 numbers in the different  exchange رقمين فى سنترال مختلف",
+            "2 numbers in the same exchange رقمين فى نفس السنترال",
+        ],
+        "correct_answer": "2 numbers in the same exchange رقمين فى نفس السنترال",
+        "day": "Day 08 - Voice Cases",
+    },
+    {
+        "eng_question": "CCA must check voice verification before escalating?",
+        "arabic_question": ":قبل تصعيد voice verification يجب على موظف خدمة العملاء التأكد من",
+        "options": [
+            "All physical cases",
+            "Data Down only",
+            "logical cases",
+        ],
+        "correct_answer": "All physical cases",
+        "day": "Day 08 - Voice Cases",
+    },
+    {
+        "eng_question": "Voice Cases override any physical case?",
+        "arabic_question": "؟physical تتجاوز اى مشكلة Voice  مشاكل",
+        "options": [
+            "True",
+            "Flase",
+        ],
+        "correct_answer": "True",
+        "day": "Day 08 - Voice Cases",
+    },
+    {
+        "eng_question": "Voice Down TT SLA is?",
+        "arabic_question": "؟ Voice Down المدة المحددة لحل مشكلة",
+        "options": [
+            "2 Days",
+            "1 Days",
+            "3 Days",
+        ],
+        "correct_answer": "1 Days",
+        "day": "Day 08 - Voice Cases",
+    },
+    {
+        "eng_question": "If CST has landline bill with 75 LE CCA action will be?",
+        "arabic_question": "لو العميل عليه فاتوره ب 75 جنيه, هتعمل ايه يا باشا ؟",
+        "options": [
+            "Check voice status",
+            "Stop troublshoting and inform CST to pay all due bills",
+            "Check grace period",
+        ],
+        "correct_answer": "Check grace period",
+        "day": "Day 08 - Voice Cases",
+    },
+    {
+        "eng_question": "If CST is calling from the same landline number that's means?",
+        "arabic_question": "لو العميل بيكلمك يا معلم من نفس رقم الارضي, فماذا يعني هذا",
+        "options": [
+            "CST has landline bill",
+            "Voice maybe down",
+            "Voice is working fine",
+        ],
+        "correct_answer": "Voice is working fine",
+        "day": "Day 08 - Voice Cases",
+    },
+    {
+        "eng_question": "CST is calling from different landline number and inform us that voice is working CCA action will be ?",
+        "arabic_question": "العميل كلمك من رقم ارضي مختلف و قلك ال Voice زي الفل يا صحبي, هتعمل ايه ؟",
+        "options": [
+            "Consider voice up",
+            "Call CST landline number",
+            "Should confirm with CST first if tested voice via phone set before call",
+        ],
+        "correct_answer": "Should confirm with CST first if tested voice via phone set before call",
+        "day": "Day 08 - Voice Cases",
+    },
+    {
+        "eng_question": "CST is calling from different landline number and inform us that voice is working but havn't phone set available, CCA action will be?",
+        "arabic_question": "العميل كلمك من خط ارضي مختلف و قلك ال Voice شغال تمام بس مفيش عدة ارضي والله, هتعنل ايه ؟",
+        "options": [
+            "Ask CST to test voice by phone set",
+            "Consider Voice Up + Create SR",
+            "Put CST on hold and call CST landline number",
+        ],
+        "correct_answer": "Put CST on hold and call CST landline number",
+        "day": "Day 08 - Voice Cases",
+    },
+    {
+        "eng_question": "If we call CST on his ADSL number to check voice status, we find another person respond, your action",
+        "arabic_question": "بتكلم العميل عشان تشوف حاله ال Voice رد عليك حد تاني, هتعمل ايه؟ (خلبالك دا كمين)",
+        "options": [
+            "Consider Voice Up + Create SR",
+            "TS Voice overlapping",
+            "Confirm landline number",
+        ],
+        "correct_answer": "Confirm landline number",
+        "day": "Day 08 - Voice Cases",
+    },
+    {
+        "eng_question": "CST has data down after checking voice CCA found voice is also down, CCA will escalate?",
+        "arabic_question": "العميل ال data عنده down و بعد فحص ال Voice طلع هو كمان down, (افتكر مين ديما بتبقي مع مين) هتصعد ايه؟",
+        "options": [
+            "Data down",
+            "Voice down",
+            "Data and Voice Down",
+        ],
+        "correct_answer": "Data and Voice Down",
+        "day": "Day 08 - Voice Cases",
+    },
+    {
+        "eng_question": "Customer Problem Voice not working or out of service after paid his bill after cut off date and CST confirmed that issue started from cut off date?",
+        "arabic_question": "العميل عنده voice مش شغال او out of service بعد دفع الفواتير و بعد تاريخ ال Cut Off بعد مع ال agent أكد ان المشكله من تاريخ ال Cut off",
+        "options": [
+            "Transfer CST to fixed line Q",
+            "Phone set available step",
+            "Create UCRM (RCR Complain)",
+        ],
+        "correct_answer": "Create UCRM (RCR Complain)",
+        "day": "Day 08 - Voice Cases",
+    },
+    {
+        "eng_question": "Voice not working or out of service and voice problem wasn't due to unpaid landline bills and still exist after paying the bill CCA action will be?",
+        "arabic_question": "ال Voice down او out of service و المشكلة مش في الفواتير و المشكله لسا موجوده حتي بعد دفع الفواتير؟",
+        "options": [
+            "Create UCRM (RCR Complaint)",
+            "Transfer CST to fixed line Q",
+            "Phone set available step",
+        ],
+        "correct_answer": "Phone set available step",
+        "day": "Day 08 - Voice Cases",
+    },
+    {
+        "eng_question": "The first step of voice verification if CST is not migrated to BSS is",
+        "arabic_question": "اول خطوه في ال voice verfication لو العميل مش علي ال BSS",
+        "options": [
+            "Check CST calling from same ADSL number",
+            "Check landline bills",
+            "Check voice from main",
+        ],
+        "correct_answer": "Check landline bills",
+        "day": "Day 08 - Voice Cases",
+    },
+    {
+        "eng_question": "Voice verification steps, that's meaning you have to check landline bills and .. ?",
+        "arabic_question": "ال voice verification بتشوف فيها الفواتير و ايه .؟",
+        "options": [
+            "Check noise or weird voice",
+            "Check grace period",
+            "Check voice status",
+        ],
+        "correct_answer": "Check voice status",
+        "day": "Day 08 - Voice Cases",
+    },
 ]
