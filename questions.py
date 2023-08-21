@@ -1040,4 +1040,212 @@ questions = [
         "correct_answer": "3 Days",
         "day": "Day - 10 Wrong Card and Port",
     },
+    {
+        "eng_question": "If there 5 logs exist during last 12 hours with 1 log during last 3 hours  . Handle as ?",
+        "arabic_question": "لو العميل عنده 5 logs في خلال اخر 12 hours منهم 1 log  في اخر 3 hours . هتتابع مع العميل ايه ؟",
+        "options": [
+            "Data down",
+            "Physical Instability",
+            "Logical Instability",
+        ],
+        "correct_answer": "Physical Instability",
+        "day": "Day - 11 Physical Instability",
+    },
+    {
+        "eng_question": "while troubleshooting physical instability ,CCA found Landline bills is 80 LE and passed the grace period , CCA stop troubleshooting and inform CST that he has to pay his bills first, right SR is ",
+        "arabic_question": "واحنا بنتابع خطوات ال physical instability   , ال CCA وجد ان العميل عليه فاتوره قيمتها 80 جنيه وعدت فتره السماح , الCCA هيوقف كل الخطوات وهيبلغ العميل انه محتاج يدفع الفاتوره أولا , ال SR المناسبه",
+        "options": [
+            "FBB Tech Problem > ​​Physical Instability > ​Follow Up",
+            "FBB Tech Problem > ​​Physical Instability >TE-Billing",
+            "FBB Tech Problem >​ Physical Instability > CPE Problem",
+        ],
+        "correct_answer": "FBB Tech Problem > ​​Physical Instability >TE-Billing",
+        "day": "Day - 11 Physical Instability",
+    },
+    {
+        "eng_question": "Time Frame For Physical Instability  Case :",
+        "arabic_question": "ال Time frame في حاله ال physical instability :",
+        "options": [
+            "1 day",
+            "2 days",
+            "5 days",
+        ],
+        "correct_answer": "5 days",
+        "day": "Day - 11 Physical Instability",
+    },
+    {
+        "eng_question": "while troubleshooting physical instability , Clear View Result After Search No DSL Physical Layer is detected ,next action is :",
+        "arabic_question": "واحنا بنتابع خطوات ال physical instability ,نتيجه ال clear view بعد ال search كانت no dsl physical layer is detected , الخطوه التاليه :",
+        "options": [
+            "Check connection type - هنفحص نظام التوصيل",
+            "Check last fix date according to TTS and customer input at same time - هنشوف اخر اصلاح تم من جانب ال TTS ومن جانب العميل",
+        ],
+        "correct_answer": "Check last fix date according to TTS and customer input at same time - هنشوف اخر اصلاح تم من جانب ال TTS ومن جانب العميل",
+        "day": "Day - 11 Physical Instability",
+    },
+    {
+        "eng_question": "Before escalating Physical Instability Case , should be check Voice Verification  ?",
+        "arabic_question": "قبل تصعيد شكوي physical instability , لازم نتابع خطوات ال voice verification ؟",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "True",
+        "day": "Day - 11 Physical Instability",
+    },
+    {
+        "eng_question": "While troubleshooting physical instability, After run clear view result is : Run Real Time Profile Optimization , right action is :",
+        "arabic_question": "واحنا بنتابع خطوات ال physical instability , بعد ما عملنا ال clear view النتيجه كانت run real time profile optimization , التصرف الصح :",
+        "options": [
+            "check connection - هنفحص التوصيلات",
+            "Check Voice Verification then Escalate to IU - هنتابع خطوات ال voice verification ثم نصعد لل IU",
+        ],
+        "correct_answer": "Check Voice Verification then Escalate to IU - هنتابع خطوات ال voice verification ثم نصعد لل IU",
+        "day": "Day - 11 Physical Instability",
+    },
+    {
+        "eng_question": "SLA for Physical Instability Contradiction Case  ?",
+        "arabic_question": "ما هي ال SLA الخاصه بشكوي ال physical instability contradiction ؟",
+        "options": [
+            "1 D",
+            "2 H",
+        ],
+        "correct_answer": "2 H",
+        "day": "Day - 11 Physical Instability",
+    },
+    {
+        "eng_question": "Physical Instability will be escalated to :",
+        "arabic_question": " ال physical instability بتتصعد لمين :",
+        "options": [
+            "IU",
+            "NOC",
+            "SLS",
+        ],
+        "correct_answer": "IU",
+        "day": "Day - 11 Physical Instability",
+    },
+    {
+        "eng_question": "CST has Physical Instability ticket in your pool , and problem still the same , after troubleshooting , CCA will ​​Re Escalate ticket again to IU ,, right SR is :",
+        "arabic_question": "العميل عنده شكوي physical instability وموجوده عندنا فال pool , والمشكله لسه موجوده متحلتش ,وبعد اتباع الخطوات , ال CCA هيصعد الشكوي تاني الي ال IU , ال SR المناسبه :",
+        "options": [
+            "FBB Tech Problem > ​​Physical Instability > ​Follow Up",
+            "FBB Tech Problem > ​​Physical Instability > ​​Re Escalation",
+            "FBB Tech Problem > ​​Physical Instability > ​Follow up After SLA",
+        ],
+        "correct_answer": "FBB Tech Problem > ​​Physical Instability > ​​Re Escalation",
+        "day": "Day - 11 Physical Instability",
+    },
+    {
+        "eng_question": "while troubleshooting Physical Instability, CCA found voice is down ,  ticket will escalated as :",
+        "arabic_question": "واحنا بنتابع خطوات ال physical instability ال CCA وجد ان الحراره مش شغاله , الشكوي اللي هتتصعد هتكون :",
+        "options": [
+            "Physical Instabilitغ",
+            "Voice Down",
+        ],
+        "correct_answer": "Voice Down",
+        "day": "Day - 11 Physical Instability",
+    },
+    {
+        "eng_question": "While Escalating Physical Instability Case to IU, SLA will be",
+        "arabic_question": "و انت بتصعد physical instability لل IU ال SLA بتكون",
+        "options": [
+            "1 Day",
+            "2 Day",
+            "5 Day",
+        ],
+        "correct_answer": "1 Day",
+        "day": "Day - 11 Physical Instability",
+    },
+    {
+        "eng_question": "Customer has ticket physical instability in IU, CCA informed him that he within SLA, Right SR is",
+        "arabic_question": "ال SR الهتعملها لو العميل كلمك و عندو physical instability في ال IU وليسا within SLA",
+        "options": [
+            "FBB Tech Problem > Physical Instability > Follow up after SLA",
+            "FBB Tech Problem > Physical Instability > Follow up",
+            "FBB Tech Problem > Physical Instability Contradiction > Follow up",
+        ],
+        "correct_answer": "FBB Tech Problem > Physical Instability > Follow up",
+        "day": "Day - 11 Physical Instability",
+    },
+    {
+        "eng_question": "While escalating Physical Instability CCA must inform customer to keep his CPE on",
+        "arabic_question": "و انت بتصعد شكوة للعميل physical instability لازن تقله يسيب ال router شغال",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "True",
+        "day": "Day - 11 Physical Instability",
+    },
+    {
+        "eng_question": "CCA must ask customer for 2 mobile numbers while escalating physical instability case",
+        "arabic_question": "لازن تسأل العميل عن 2 رقم موبيل و انت بتصعد Physical instability",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "True",
+        "day": "Day - 11 Physical Instability",
+    },
+    {
+        "eng_question": "CCA must inform cutomer with ticket number while escalating physical instability case",
+        "arabic_question": "لازم تقول رقم الشكوه وانت بتصعد Physical instability",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "True",
+        "day": "Day - 11 Physical Instability",
+    },
+    {
+        "eng_question": "In Physical instability case we will escalate the ticket to (Pilot Follow up) when problem solved after CST connected from main outlet",
+        "arabic_question": "لازم نصعد ticket لفريق ال pilot follow up لما المشكله تتحل بعد التوصيل من فيشة رئيسية",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "True",
+        "day": "Day - 11 Physical Instability",
+    },
+    {
+        "eng_question": "While troubleshooting physical instability, Clear view result after search technical dispatch is recommended, next action is",
+        "arabic_question": "و انت بتعمل troubleshooting ل physical instability ناتج ال clear view after serach كان technical dispatch is recommended هعمل ايه",
+        "options": [
+            "Check Connection type",
+            "Check last fix date according to TTS and customer input at same time",
+        ],
+        "correct_answer": "Check Connection type",
+        "day": "Day - 11 Physical Instability",
+    },
+    {
+        "eng_question": "While Escalating Physical Instability Case to IU for third time, SLA will be",
+        "arabic_question": "و انت بتصعد physical instability لل IU للمره الثالثة ال SLA هتكون",
+        "options": [
+            "1 Day",
+            "2 Days",
+            "2 Working days",
+        ],
+        "correct_answer": "1 Day",
+        "day": "Day - 11 Physical Instability",
+    },
+    {
+        "eng_question": "While troubleshooting physical instability, connection type: wall outlit, the next step",
+        "arabic_question": "اي الخطوه البعد ال Connection type و انت بتعمل troubleshoot ل physical instability من فيشة في الحيطه",
+        "options": [
+            "Check if connection right or Wrong",
+            "Check Splitter esistence before CPE",
+        ],
+        "correct_answer": "Check if connection right or Wrong",
+        "day": "Day - 11 Physical Instability",
+    },
+    {
+        "eng_question": "While troubleshooting physical instability, connection type: wall outlit, Connection is right",
+        "arabic_question": "اي الخطوه البعد ال Connection type و انت بتعمل troubleshoot ل physical instability من فيشة في الحيطه و التوصيل صح",
+        "options": [
+            "Re Run ASSIA Clear View",
+            "Check Splitter esistence before CPE",
+        ],
+        "correct_answer": "Check Splitter esistence before CPE",
+        "day": "Day - 11 Physical Instability",
+    },
 ]

@@ -8,6 +8,7 @@ default_days = [
     "Day - 08 Voice Cases",
     "Day - 09 Data Down Cases",
     "Day - 10 Wrong Card and Port",
+    "Day - 11 Physical Instability",
 ]
 
 
