@@ -4,6 +4,9 @@ import random
 from typing import Set
 
 
+default_days = ["Day 08 - Voice Cases"]
+
+
 def main():
     st.title("WE Training Quiz Archive.📦")
     st.markdown("---")
@@ -71,11 +74,14 @@ def initialize_session_state():
 
 def display_filter_options():
     days = set([question["day"] for question in questions])
+    sorted_days = sorted(days, reverse=True)  # Sort the days in descending order
     selected_days = st.multiselect(
-        "Select days of Quiz:", ["All"] + sorted(list(days)), default=["All"]
+        "Select days of Quiz:",
+        ["All"] + sorted_days,
+        default=default_days,  # Add the default days
     )
     if "All" in selected_days:
-        selected_days = list(days)
+        selected_days = sorted_days
     st.session_state.selected_days = selected_days
 
 
