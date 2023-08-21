@@ -17,9 +17,7 @@ st.markdown(
     '<div style="background-color: #E8F4FD; padding: 10px; border-radius: 10px; border-left: 4px solid #3498DB; direction: rtl;">'
     '<h3 style="color: #3498DB; margin-top: 0; width: 100%; text-align: right;">تحديثات</h3>'
     '<ul style="list-style-type: disc; padding-inline-start: 30px; color: #333; font-family: Cairo; direction: rtl;">'
-    '<li><span style="font-size: 14px;">تم تحديث ملفات ال PDF ليوم 12 (Bad Line Quality).</span></li>'
-    '<li><span style="font-size: 14px;">SLA CHAT دلوقتي متاح,تقدر تعرف اي SLA بلأسم ال في ال PDF.</span></li>'
-    '<li><span style="font-size: 14px;">دلوقتي تقدر تخطار الايام الانت عاوز تحل اسأله ال QUIZ بتاعتها.</span></li>'
+    '<li><span style="font-size: 14px;">يتم الأن اضافة اسئله ال Quiz الثاني.</span></li>'
     "</ul>"
     "</div>",
     unsafe_allow_html=True,
