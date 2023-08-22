@@ -28,7 +28,7 @@ st.title("🔍 Question Similarity Search")
 
 st.markdown(
     '<div style="background-color: #e6f7ff; padding: 10px; border-radius: 5px; font-family: Cairo; direction: rtl;">'
-    '<span style="color: #0066cc; font-weight: bold;">اكتب السؤال هنا و الاسئله الشبهو هتطلعلك</span>'
+    '<span style="color: #0066cc; font-weight: bold;">اكتب السؤال هنا و الأسئلة الشبيهة هتطلعلك</span>'
     "</div>",
     unsafe_allow_html=True,
 )
@@ -51,3 +51,5 @@ if query:
                 st.markdown(
                     f"Day: {highlight_text(q['day'], 'yellow')}", unsafe_allow_html=True
                 )
+    else:
+        st.error("❌ No matching questions found.")
