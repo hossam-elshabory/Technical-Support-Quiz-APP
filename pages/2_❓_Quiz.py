@@ -9,6 +9,7 @@ default_days = [
     "Day - 09 Data Down Cases",
     "Day - 10 Wrong Card and Port",
     "Day - 11 Physical Instability",
+    "Day - 12 Bad Line Quality",
 ]
 
 
