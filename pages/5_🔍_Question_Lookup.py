@@ -14,7 +14,7 @@ def search_questions(query):
     results = []
     for q in questions:
         similarity = calculate_similarity(query, q["eng_question"])
-        if similarity >= 0.4:
+        if similarity >= 0.3:
             q["similarity"] = similarity
             results.append(q)
     return results
