@@ -737,7 +737,7 @@ questions = [
             "Change the power led in CPE",
             "Check with another CPE with its original adapter",
         ],
-        "correct_answer": "Check with another COE with its original adapter",
+        "correct_answer": "Check with another CPE with its original adapter",
         "day": "Day - 09 Data Down Cases",
     },
     {
