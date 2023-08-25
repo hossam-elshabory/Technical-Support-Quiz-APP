@@ -4,13 +4,7 @@ import random
 from typing import Set
 
 
-default_days = [
-    "Day - 08 Voice Cases",
-    "Day - 09 Data Down Cases",
-    "Day - 10 Wrong Card and Port",
-    "Day - 11 Physical Instability",
-    "Day - 12 Bad Line Quality",
-]
+default_days = ["Day - 13 Customer Request"]
 
 
 def main():
@@ -99,8 +93,8 @@ def filter_questions_by_days(questions, selected_days):
 
 def display_message_to_users():
     st.markdown(
-        '<div style="background-color: yellow; padding: 10px; border-radius: 5px; font-family: Cairo; direction: rtl;">'
-        '<span style="color: black; font-weight: bold;">نتأكد من الأسئلة و احنا بنحل, لو حد لقي سؤال شاكيك فيه بيعت علي الجروب</span>'
+        '<div style="background-color: #FFF3C2; border-left: 6px solid #FF9800; padding: 10px; border-radius: 5px; display: flex; align-items: center; direction: rtl; font-family: Cairo;">'
+        '<span style="color: #333; font-weight: bold; margin-right: 10px;">⚠ نتأكد من الأسئلة و احنا بنحل, لو حد لقي سؤال شاكيك فيه بيعت علي الجروب</span>'
         "</div>",
         unsafe_allow_html=True,
     )
