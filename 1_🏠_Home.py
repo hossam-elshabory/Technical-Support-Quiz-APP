@@ -19,6 +19,7 @@ st.markdown(
     '<ul style="list-style-type: disc; padding-inline-start: 30px; color: #333; font-family: Cairo; direction: rtl;">'
     "<li>تم اضافة ال Second Quiz و كل الايام لحد Day 15 - Browser.</li>"
     "<li>دلوقتي تقدر تتحكم في نسبة تشابه السؤال في ال Search Question❓.</li>"
+    "<li>تم اضافة صور لاختيارات ال Case Detection لي (Unable to obtain IP + Browsing).</li>"
     "</ul>"
     "</div>",
     unsafe_allow_html=True,
@@ -26,7 +27,7 @@ st.markdown(
 
 st.write("")
 
-col1, col2, col3 = st.columns(3)
+col1, col2, col3, col4 = st.columns(4)
 
 with col1:
     quiz_page = st.button("✍Take A Quiz !!")
@@ -40,3 +41,7 @@ with col3:
     q_search = st.button("🔍 Search Question ❓")
     if q_search:
         switch_page("Question_Lookup")
+with col4:
+    case_detect = st.button("🔭 Case_Detection")
+    if case_detect:
+        switch_page("Case_Detection")
