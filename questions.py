@@ -398,7 +398,7 @@ questions = [
             "noise issue",
         ],
         "correct_answer": "Physical instability",
-        "day": "Day - 08 Voice Cases",
+        "day": "Day 08 - Voice Cases",
     },
     {
         "eng_question": "in voice verification .. After calling CST's on landline number CCA found Record Massage الرقم مرفوع مؤقت من الخدمة  CCA action will be…?",
@@ -409,7 +409,7 @@ questions = [
             "Ask CST to pay landline bills اطلب من العميل دفع الفواتير الارضي",
         ],
         "correct_answer": "Consider Voice Down + Create TT Create TT + اعتبار الحرارة فاصلة",
-        "day": "Day - 08 Voice Cases",
+        "day": "Day 08 - Voice Cases",
     },
     {
         "eng_question": "CST Follow voice down ticket after 25 hour from escalating it and ticket still on IU CCA action will be …?",
@@ -420,7 +420,7 @@ questions = [
             "Inform CST Passed SLA + Create IR +create SR ​​FBB Tech Problem---​Voice Down​---Follow Up after SLA Create IR +create SR ​​FBB Tech Problem---​Voice Down​---Follow Up after SLA + اخبار العميل بتجاوز المدة",
         ],
         "correct_answer": "Inform CST Passed SLA + Create IR +create SR ​​FBB Tech Problem---​Voice Down​---Follow Up after SLA Create IR +create SR ​​FBB Tech Problem---​Voice Down​---Follow Up after SLA + اخبار العميل بتجاوز المدة",
-        "day": "Day - 08 Voice Cases",
+        "day": "Day 08 - Voice Cases",
     },
     {
         "eng_question": "CST has problem in Call waiting service CCA action will be ..?",
@@ -431,7 +431,7 @@ questions = [
             "Inform CST to pay all landline bills اخبار العميل بدفع فواتير الخط الارضي",
         ],
         "correct_answer": "Transfer CST to fixed line VDN تحويل العميل لقسم الخط الارضي",
-        "day": "Day - 08 Voice Cases",
+        "day": "Day 08 - Voice Cases",
     },
     {
         "eng_question": "Customer problem voice not working or out of service after pay bill after cut off and informed that issue started before cutoff date , CCA Right Action",
@@ -442,7 +442,7 @@ questions = [
             "Create UCRM ( RCR Complaint ) UCRM عمل شكوى على",
         ],
         "correct_answer": "Phone set available step السؤال عن عدة تليفون متاحة",
-        "day": "Day - 08 Voice Cases",
+        "day": "Day 08 - Voice Cases",
     },
     {
         "eng_question": "CCA found that CST's landline number has work order رفع نهائي متأخرات أقساط  In Customer Profile Tool ..... CCA action will be…?",
@@ -453,7 +453,7 @@ questions = [
             "Follow change phone number process change phone number متابعة اجراءات",
         ],
         "correct_answer": "Inform CST to pay all due installments اخبار العميل دفع الاقساط  المستحقة",
-        "day": "Day - 08 Voice Cases",
+        "day": "Day 08 - Voice Cases",
     },
     {
         "eng_question": "Voice overlapping can happened between?",
@@ -464,7 +464,7 @@ questions = [
             "2 numbers in the same exchange رقمين فى نفس السنترال",
         ],
         "correct_answer": "2 numbers in the same exchange رقمين فى نفس السنترال",
-        "day": "Day - 08 Voice Cases",
+        "day": "Day 08 - Voice Cases",
     },
     {
         "eng_question": "CCA must check voice verification before escalating?",
@@ -475,7 +475,7 @@ questions = [
             "logical cases",
         ],
         "correct_answer": "All physical cases",
-        "day": "Day - 08 Voice Cases",
+        "day": "Day 08 - Voice Cases",
     },
     {
         "eng_question": "Voice Cases override any physical case?",
@@ -485,7 +485,7 @@ questions = [
             "Flase",
         ],
         "correct_answer": "True",
-        "day": "Day - 08 Voice Cases",
+        "day": "Day 08 - Voice Cases",
     },
     {
         "eng_question": "Voice Down TT SLA is?",
@@ -496,7 +496,7 @@ questions = [
             "3 Days",
         ],
         "correct_answer": "1 Days",
-        "day": "Day - 08 Voice Cases",
+        "day": "Day 08 - Voice Cases",
     },
     {
         "eng_question": "If CST has landline bill with 75 LE CCA action will be?",
@@ -507,7 +507,7 @@ questions = [
             "Check grace period",
         ],
         "correct_answer": "Check grace period",
-        "day": "Day - 08 Voice Cases",
+        "day": "Day 08 - Voice Cases",
     },
     {
         "eng_question": "If CST is calling from the same landline number that's means?",
@@ -518,7 +518,7 @@ questions = [
             "Voice is working fine",
         ],
         "correct_answer": "Voice is working fine",
-        "day": "Day - 08 Voice Cases",
+        "day": "Day 08 - Voice Cases",
     },
     {
         "eng_question": "CST is calling from different landline number and inform us that voice is working CCA action will be ?",
@@ -529,7 +529,7 @@ questions = [
             "Should confirm with CST first if tested voice via phone set before call",
         ],
         "correct_answer": "Should confirm with CST first if tested voice via phone set before call",
-        "day": "Day - 08 Voice Cases",
+        "day": "Day 08 - Voice Cases",
     },
     {
         "eng_question": "CST is calling from different landline number and inform us that voice is working but havn't phone set available, CCA action will be?",
@@ -540,7 +540,7 @@ questions = [
             "Put CST on hold and call CST landline number",
         ],
         "correct_answer": "Put CST on hold and call CST landline number",
-        "day": "Day - 08 Voice Cases",
+        "day": "Day 08 - Voice Cases",
     },
     {
         "eng_question": "If we call CST on his ADSL number to check voice status, we find another person respond, your action",
@@ -551,7 +551,7 @@ questions = [
             "Confirm landline number",
         ],
         "correct_answer": "Confirm landline number",
-        "day": "Day - 08 Voice Cases",
+        "day": "Day 08 - Voice Cases",
     },
     {
         "eng_question": "CST has data down after checking voice CCA found voice is also down, CCA will escalate?",
@@ -562,7 +562,7 @@ questions = [
             "Data and Voice Down",
         ],
         "correct_answer": "Data and Voice Down",
-        "day": "Day - 08 Voice Cases",
+        "day": "Day 08 - Voice Cases",
     },
     {
         "eng_question": "Customer Problem Voice not working or out of service after paid his bill after cut off date and CST confirmed that issue started from cut off date?",
@@ -573,7 +573,7 @@ questions = [
             "Create UCRM (RCR Complain)",
         ],
         "correct_answer": "Create UCRM (RCR Complain)",
-        "day": "Day - 08 Voice Cases",
+        "day": "Day 08 - Voice Cases",
     },
     {
         "eng_question": "Voice not working or out of service and voice problem wasn't due to unpaid landline bills and still exist after paying the bill CCA action will be?",
@@ -584,7 +584,7 @@ questions = [
             "Phone set available step",
         ],
         "correct_answer": "Phone set available step",
-        "day": "Day - 08 Voice Cases",
+        "day": "Day 08 - Voice Cases",
     },
     {
         "eng_question": "The first step of voice verification if CST is not migrated to BSS is",
@@ -595,7 +595,7 @@ questions = [
             "Check voice from main",
         ],
         "correct_answer": "Check landline bills",
-        "day": "Day - 08 Voice Cases",
+        "day": "Day 08 - Voice Cases",
     },
     {
         "eng_question": "Voice verification steps, that's meaning you have to check landline bills and .. ?",
@@ -606,7 +606,7 @@ questions = [
             "Check voice status",
         ],
         "correct_answer": "Check voice status",
-        "day": "Day - 08 Voice Cases",
+        "day": "Day 08 - Voice Cases",
     },
     {
         "eng_question": "If CST has Power Failure which of the following you will do with CST",
@@ -617,7 +617,7 @@ questions = [
             "Change the power led in CPE في الروتر power يغير لمبه ال",
         ],
         "correct_answer": "Check with another CPE with it's original adapter الرئيسي adapter يجرب بروتر تاني ولازم   يكون بال",
-        "day": "Day - 09 Data Down Cases",
+        "day": "Day 09 - Data Down Cases",
     },
     {
         "eng_question": "If Data Down Case solved  after Cst Connect From Main Wall outlet and you will create TT to Pilot Follow Up Team , way of communication will be",
@@ -628,7 +628,7 @@ questions = [
             "Call only مكالمه فقط",
         ],
         "correct_answer": "Call only مكالمه فقط",
-        "day": "Day - 09 Data Down Cases",
+        "day": "Day 09 - Data Down Cases",
     },
     {
         "eng_question": "SLA for pending fixing TE will be:",
@@ -639,7 +639,7 @@ questions = [
             "3 Days",
         ],
         "correct_answer": "3 Days",
-        "day": "Day - 09 Data Down Cases",
+        "day": "Day 09 - Data Down Cases",
     },
     {
         "eng_question": "Cst Calling Us And Informed (ADSL Led Is Down )While  has 3 logs in NST at 7:00 AM ,7:15 AM and 7:30 AM and called us at 1:00 PM at the same day  and informed that he has a problem in his service case will be",
@@ -650,7 +650,7 @@ questions = [
             "BLQ",
         ],
         "correct_answer": "Down Cases",
-        "day": "Day - 09 Data Down Cases",
+        "day": "Day 09 - Data Down Cases",
     },
     {
         "eng_question": "While T.S Data Down Case With Cst Adsl Led is Stable and line Become Up , CCA Action",
@@ -661,7 +661,7 @@ questions = [
             "Follow Instability troubleshoot Instability  هنتابع خطوات ال",
         ],
         "correct_answer": "Follow Instability troubleshoot Instability  هنتابع خطوات ال",
-        "day": "Day - 09 Data Down Cases",
+        "day": "Day 09 - Data Down Cases",
     },
     {
         "eng_question": "Performing SELT test will inform us with",
@@ -672,7 +672,7 @@ questions = [
             "Distance between exchange or cabin and CPE المسافه بين السنترال او الكابينه وبين الروتر",
         ],
         "correct_answer": "Distance between exchange or cabin and CPE المسافه بين السنترال او الكابينه وبين الروتر",
-        "day": "Day - 09 Data Down Cases",
+        "day": "Day 09 - Data Down Cases",
     },
     {
         "eng_question": "If CST has Ticket data down with update (Re-splitted done )  and Cst  connected his CPE From Main Wire Then ,,, CCA Will Inform cst Next Step",
@@ -683,7 +683,7 @@ questions = [
             "Escalate to IU IU هنصعد الشكوي لل",
         ],
         "correct_answer": "Check availability to test by another CPE  الامكانيه عند العميل انه يجرب بروتر تاني",
-        "day": "Day - 09 Data Down Cases",
+        "day": "Day 09 - Data Down Cases",
     },
     {
         "eng_question": "In Case T.S Data Down Case and Cst has ( MSAN Type: Yes ) you will measure distance with",
@@ -694,7 +694,7 @@ questions = [
             "150 meter",
         ],
         "correct_answer": "10 meter",
-        "day": "Day - 09 Data Down Cases",
+        "day": "Day 09 - Data Down Cases",
     },
     {
         "eng_question": "The time that IU ends work per day is:",
@@ -705,7 +705,7 @@ questions = [
             "9:00 PM",
         ],
         "correct_answer": "8:00 PM",
-        "day": "Day - 09 Data Down Cases",
+        "day": "Day 09 - Data Down Cases",
     },
     {
         "eng_question": "Escalation Data Down to IU SLA will be:",
@@ -716,7 +716,7 @@ questions = [
             "1 Hour",
         ],
         "correct_answer": "1 Day",
-        "day": "Day - 09 Data Down Cases",
+        "day": "Day 09 - Data Down Cases",
     },
     {
         "eng_question": "Power Failure means ?",
@@ -727,7 +727,7 @@ questions = [
             "Power led not working or working with red color",
         ],
         "correct_answer": "Power led not working or working with red color",
-        "day": "Day - 09 Data Down Cases",
+        "day": "Day 09 - Data Down Cases",
     },
     {
         "eng_question": "If CST has power failure which of the following you will do with the CST ?",
@@ -738,7 +738,7 @@ questions = [
             "Check with another CPE with its original adapter",
         ],
         "correct_answer": "Check with another CPE with its original adapter",
-        "day": "Day - 09 Data Down Cases",
+        "day": "Day 09 - Data Down Cases",
     },
     {
         "eng_question": "If CST called us informed that he has cut cable you will follow normal troubleshoot in ticket maker",
@@ -748,7 +748,7 @@ questions = [
             "False",
         ],
         "correct_answer": "False",
-        "day": "Day - 09 Data Down Cases",
+        "day": "Day 09 - Data Down Cases",
     },
     {
         "eng_question": "If customer line in ASSIA no provisioned that means",
@@ -759,7 +759,7 @@ questions = [
             "ASSIA is down",
         ],
         "correct_answer": "CST not supported by ASSIA",
-        "day": "Day - 09 Data Down Cases",
+        "day": "Day 09 - Data Down Cases",
     },
     {
         "eng_question": "If CST has data and voice down case after connect from main wall outlet problem solved you will",
@@ -770,7 +770,7 @@ questions = [
             "Inform CST to change splitter",
         ],
         "correct_answer": "Create TT for internal wiring",
-        "day": "Day - 09 Data Down Cases",
+        "day": "Day 09 - Data Down Cases",
     },
     {
         "eng_question": "If we run SELT and customer's line connected with exchange you will measure distance with",
@@ -781,7 +781,7 @@ questions = [
             "50 meters",
         ],
         "correct_answer": "150 meters",
-        "day": "Day - 09 Data Down Cases",
+        "day": "Day 09 - Data Down Cases",
     },
     {
         "eng_question": "If power led is down and CST uses original adapter next step will be",
@@ -792,7 +792,7 @@ questions = [
             "Direct CST to CSO",
         ],
         "correct_answer": "Try another wall-plug",
-        "day": "Day - 09 Data Down Cases",
+        "day": "Day 09 - Data Down Cases",
     },
     {
         "eng_question": "If CST has data down case and when you checked SELT you found that CST is not supported by ASSIA you will?",
@@ -803,7 +803,7 @@ questions = [
             "Check connection type",
         ],
         "correct_answer": "Check connection type",
-        "day": "Day - 09 Data Down Cases",
+        "day": "Day 09 - Data Down Cases",
     },
     {
         "eng_question": "SLA for internal wiring TT",
@@ -814,7 +814,7 @@ questions = [
             "1 day",
         ],
         "correct_answer": "2 hours",
-        "day": "Day - 09 Data Down Cases",
+        "day": "Day 09 - Data Down Cases",
     },
     {
         "eng_question": "If CPE restarted automatically and power LED turned off while CPE restarted you will consider it as",
@@ -825,7 +825,7 @@ questions = [
             "No Problem",
         ],
         "correct_answer": "Power Failure",
-        "day": "Day - 09 Data Down Cases",
+        "day": "Day 09 - Data Down Cases",
     },
     {
         "eng_question": "While follow with cst WACP Case and Cst Line Status is Down and Matrix Status is also Down so the next step is :",
@@ -836,7 +836,7 @@ questions = [
             " Inform Cst to check his CPE نقول للعميل يفحص الراوتر",
         ],
         "correct_answer": "Troubleshoot as Data Down نتابع Data Down",
-        "day": "Day - 10 Wrong Card and Port",
+        "day": "Day 10 - Wrong Card and Port",
     },
     {
         "eng_question": "In Case CCA will Re-escalate WCAP to IU as a second escalation , So the right SLA is :",
@@ -847,7 +847,7 @@ questions = [
             "2 Days يومين",
         ],
         "correct_answer": "1 Day يوم",
-        "day": "Day - 10 Wrong Card and Port",
+        "day": "Day 10 - Wrong Card and Port",
     },
     {
         "eng_question": " In case ticket returned with update ( Outside TEData ) , CCA right action according to the customer's case :",
@@ -858,7 +858,7 @@ questions = [
             "will create the below SR ( Broadband>Technical>ADSL/VDSL>CC service Activation>Global Problem - هنعمل ال SR دى ( Broadband>Technical>ADSL/VDSL>CC service Activation>Global Problem )",
         ],
         "correct_answer": "will create the below SR ( Broadband>Technical>ADSL/VDSL>CC service Activation>CPE Configuration ) - هنعمل ال SR دى ( Broadband>Technical>ADSL/VDSL>CC service Activation>CPE Configuration )",
-        "day": "Day - 10 Wrong Card and Port",
+        "day": "Day 10 - Wrong Card and Port",
     },
     {
         "eng_question": "In case the ticket returned with updated CPE problem close code 74  , Cst from Cairo and insist to check with another available CPE , CCA right action is",
@@ -868,7 +868,7 @@ questions = [
             "will inform the customer that he should check the CPE on CSO Mandatory - ضرورى اننا نقول للعميل انه يفحص الراوتر فى الفرع",
         ],
         "correct_answer": "will inform the customer that he should check the CPE on CSO Mandatory - ضرورى اننا نقول للعميل انه يفحص الراوتر فى الفرع",
-        "day": "Day - 10 Wrong Card and Port",
+        "day": "Day 10 - Wrong Card and Port",
     },
     {
         "eng_question": "In case WCAP CST disconnect phone cable from CPE and ADSL still UP , It is CPE Problem :",
@@ -878,7 +878,7 @@ questions = [
             "False",
         ],
         "correct_answer": "True",
-        "day": "Day - 10 Wrong Card and Port",
+        "day": "Day 10 - Wrong Card and Port",
     },
     {
         "eng_question": "Cst has Ticket Data Down with Update ( Close Code (82): External problem- cable maintenance needed ) , So CCA will Inform cst  SLA :",
@@ -889,7 +889,7 @@ questions = [
             "Case escalated to the responsible team and we are waiting for their update with 3 days SLA - الشكوى اتصعدت للقسم المختص بيها واحنا منتظرين الرد منهم وهيكون خلال 3 ايام",
         ],
         "correct_answer": "Case escalated to the responsible team and we are waiting for their update with 3 days SLA - الشكوى اتصعدت للقسم المختص بيها واحنا منتظرين الرد منهم وهيكون خلال 3 ايام",
-        "day": "Day - 10 Wrong Card and Port",
+        "day": "Day 10 - Wrong Card and Port",
     },
     {
         "eng_question": "In wrong card and port or disable lines, CCA shouldn't search on Matrix using ADSL & customer account no. to avoid any indeterminate for duplicated matrix :",
@@ -899,7 +899,7 @@ questions = [
             "False",
         ],
         "correct_answer": "False",
-        "day": "Day - 10 Wrong Card and Port",
+        "day": "Day 10 - Wrong Card and Port",
     },
     {
         "eng_question": "If the Customer number belongs to Hayah Karima project and cst has Major Fault with no estimated time , SLA will be :",
@@ -910,7 +910,7 @@ questions = [
             "5 Days - 5 ايام",
         ],
         "correct_answer": "5 Days - 5 ايام",
-        "day": "Day - 10 Wrong Card and Port",
+        "day": "Day 10 - Wrong Card and Port",
     },
     {
         "eng_question": " In case CCA follow WCAP case and Cst  Line Status from main : Down and Matrix : UP, No have Logs , So CCA right action :",
@@ -921,7 +921,7 @@ questions = [
             " Escalate to IU - نصعد لل IU",
         ],
         "correct_answer": " Escalate to IU - نصعد لل IU",
-        "day": "Day - 10 Wrong Card and Port",
+        "day": "Day 10 - Wrong Card and Port",
     },
     {
         "eng_question": "customer which has Major Fault update with no estimated time should follow on his case with us :",
@@ -931,7 +931,7 @@ questions = [
             "False",
         ],
         "correct_answer": "True",
-        "day": "Day - 10 Wrong Card and Port",
+        "day": "Day 10 - Wrong Card and Port",
     },
     {
         "eng_question": "while follow with CST WCAP case and CST line status is down and matrix is UP, so the next step is",
@@ -942,7 +942,7 @@ questions = [
             "Escalate to IU",
         ],
         "correct_answer": "Follow Data status from main step",
-        "day": "Day - 10 Wrong Card and Port",
+        "day": "Day 10 - Wrong Card and Port",
     },
     {
         "eng_question": "Customer Follow Up escalated ticket (Wrong Card and Port) and the TKT still within SLA, So right SR is",
@@ -953,7 +953,7 @@ questions = [
             "FBB Tech Problem > Wrong card and port > Follow up afte SLA",
         ],
         "correct_answer": "FBB Tech Problem > Wrong card and port > Follow up",
-        "day": "Day - 10 Wrong Card and Port",
+        "day": "Day 10 - Wrong Card and Port",
     },
     {
         "eng_question": "CCA should not stop escalation to IU due to any reason while making rest & configuration such as CPE page can't be accessed",
@@ -963,7 +963,7 @@ questions = [
             "False",
         ],
         "correct_answer": "True",
-        "day": "Day - 10 Wrong Card and Port",
+        "day": "Day 10 - Wrong Card and Port",
     },
     {
         "eng_question": "CST has ticket WCAP in IU pool and TKT passed SLA, so CCA will inform CSA SLA",
@@ -974,7 +974,7 @@ questions = [
             "2 Days",
         ],
         "correct_answer": "1 Day",
-        "day": "Day - 10 Wrong Card and Port",
+        "day": "Day 10 - Wrong Card and Port",
     },
     {
         "eng_question": "Its not mandatory to ask customer for 2 mobiles numbers while escalating any physical case",
@@ -984,7 +984,7 @@ questions = [
             "False",
         ],
         "correct_answer": "False",
-        "day": "Day - 10 Wrong Card and Port",
+        "day": "Day 10 - Wrong Card and Port",
     },
     {
         "eng_question": "In case WCAP CSE disconnected phone cable from CPE and ADSL still up, is it CPE problem ?",
@@ -994,7 +994,7 @@ questions = [
             "False",
         ],
         "correct_answer": "True",
-        "day": "Day - 10 Wrong Card and Port",
+        "day": "Day 10 - Wrong Card and Port",
     },
     {
         "eng_question": "Customer Follow up his ticket (Wrong Card and Port) And the TKT has update Major Fault within First SLA, so right SR",
@@ -1005,7 +1005,7 @@ questions = [
             "FBB Tech Problem > Wrong Card and port > Major Fault within SLA",
         ],
         "correct_answer": "FBB Tech Problem > Wrong Card and port > Major Fault within SLA",
-        "day": "Day - 10 Wrong Card and Port",
+        "day": "Day 10 - Wrong Card and Port",
     },
     {
         "eng_question": "CST has ticker update (Abuser as per TE) and customer said that issue covered, so CCA right action is",
@@ -1016,7 +1016,7 @@ questions = [
             "Transfer CST to fixed Line VDN",
         ],
         "correct_answer": "Escalate Normaly",
-        "day": "Day - 10 Wrong Card and Port",
+        "day": "Day 10 - Wrong Card and Port",
     },
     {
         "eng_question": "Customer follow up his ticket (WCAP) and the TKT has update Major Fault Passed SLA and still in the same update afte RE-Escalation TKT, so right SR",
@@ -1027,7 +1027,7 @@ questions = [
             "FBB Tech Problem > Wrong Card and port > Major Fault within SLA",
         ],
         "correct_answer": "FBB Tech Problem > Wrong Card and port > Major Fault After SLA",
-        "day": "Day - 10 Wrong Card and Port",
+        "day": "Day 10 - Wrong Card and Port",
     },
     {
         "eng_question": "CST has ticket data down with update (Morkzat), so CCA will inform CST with SLA",
@@ -1038,7 +1038,7 @@ questions = [
             "3 Days",
         ],
         "correct_answer": "3 Days",
-        "day": "Day - 10 Wrong Card and Port",
+        "day": "Day 10 - Wrong Card and Port",
     },
     {
         "eng_question": "If there 5 logs exist during last 12 hours with 1 log during last 3 hours  . Handle as ?",
@@ -1049,7 +1049,7 @@ questions = [
             "Logical Instability",
         ],
         "correct_answer": "Physical Instability",
-        "day": "Day - 11 Physical Instability",
+        "day": "Day 11 - Physical Instability",
     },
     {
         "eng_question": "while troubleshooting physical instability ,CCA found Landline bills is 80 LE and passed the grace period , CCA stop troubleshooting and inform CST that he has to pay his bills first, right SR is ",
@@ -1060,7 +1060,7 @@ questions = [
             "FBB Tech Problem >​ Physical Instability > CPE Problem",
         ],
         "correct_answer": "FBB Tech Problem > ​​Physical Instability >TE-Billing",
-        "day": "Day - 11 Physical Instability",
+        "day": "Day 11 - Physical Instability",
     },
     {
         "eng_question": "Time Frame For Physical Instability  Case :",
@@ -1071,7 +1071,7 @@ questions = [
             "5 days",
         ],
         "correct_answer": "5 days",
-        "day": "Day - 11 Physical Instability",
+        "day": "Day 11 - Physical Instability",
     },
     {
         "eng_question": "while troubleshooting physical instability , Clear View Result After Search No DSL Physical Layer is detected ,next action is :",
@@ -1081,7 +1081,7 @@ questions = [
             "Check last fix date according to TTS and customer input at same time - هنشوف اخر اصلاح تم من جانب ال TTS ومن جانب العميل",
         ],
         "correct_answer": "Check last fix date according to TTS and customer input at same time - هنشوف اخر اصلاح تم من جانب ال TTS ومن جانب العميل",
-        "day": "Day - 11 Physical Instability",
+        "day": "Day 11 - Physical Instability",
     },
     {
         "eng_question": "Before escalating Physical Instability Case , should be check Voice Verification  ?",
@@ -1091,7 +1091,7 @@ questions = [
             "False",
         ],
         "correct_answer": "True",
-        "day": "Day - 11 Physical Instability",
+        "day": "Day 11 - Physical Instability",
     },
     {
         "eng_question": "While troubleshooting physical instability, After run clear view result is : Run Real Time Profile Optimization , right action is :",
@@ -1101,7 +1101,7 @@ questions = [
             "Check Voice Verification then Escalate to IU - هنتابع خطوات ال voice verification ثم نصعد لل IU",
         ],
         "correct_answer": "Check Voice Verification then Escalate to IU - هنتابع خطوات ال voice verification ثم نصعد لل IU",
-        "day": "Day - 11 Physical Instability",
+        "day": "Day 11 - Physical Instability",
     },
     {
         "eng_question": "SLA for Physical Instability Contradiction Case  ?",
@@ -1111,7 +1111,7 @@ questions = [
             "2 H",
         ],
         "correct_answer": "2 H",
-        "day": "Day - 11 Physical Instability",
+        "day": "Day 11 - Physical Instability",
     },
     {
         "eng_question": "Physical Instability will be escalated to :",
@@ -1122,7 +1122,7 @@ questions = [
             "SLS",
         ],
         "correct_answer": "IU",
-        "day": "Day - 11 Physical Instability",
+        "day": "Day 11 - Physical Instability",
     },
     {
         "eng_question": "CST has Physical Instability ticket in your pool , and problem still the same , after troubleshooting , CCA will ​​Re Escalate ticket again to IU ,, right SR is :",
@@ -1133,7 +1133,7 @@ questions = [
             "FBB Tech Problem > ​​Physical Instability > ​Follow up After SLA",
         ],
         "correct_answer": "FBB Tech Problem > ​​Physical Instability > ​​Re Escalation",
-        "day": "Day - 11 Physical Instability",
+        "day": "Day 11 - Physical Instability",
     },
     {
         "eng_question": "while troubleshooting Physical Instability, CCA found voice is down ,  ticket will escalated as :",
@@ -1143,7 +1143,7 @@ questions = [
             "Voice Down",
         ],
         "correct_answer": "Voice Down",
-        "day": "Day - 11 Physical Instability",
+        "day": "Day 11 - Physical Instability",
     },
     {
         "eng_question": "While Escalating Physical Instability Case to IU, SLA will be",
@@ -1154,7 +1154,7 @@ questions = [
             "5 Day",
         ],
         "correct_answer": "1 Day",
-        "day": "Day - 11 Physical Instability",
+        "day": "Day 11 - Physical Instability",
     },
     {
         "eng_question": "Customer has ticket physical instability in IU, CCA informed him that he within SLA, Right SR is",
@@ -1165,7 +1165,7 @@ questions = [
             "FBB Tech Problem > Physical Instability Contradiction > Follow up",
         ],
         "correct_answer": "FBB Tech Problem > Physical Instability > Follow up",
-        "day": "Day - 11 Physical Instability",
+        "day": "Day 11 - Physical Instability",
     },
     {
         "eng_question": "While escalating Physical Instability CCA must inform customer to keep his CPE on",
@@ -1175,7 +1175,7 @@ questions = [
             "False",
         ],
         "correct_answer": "True",
-        "day": "Day - 11 Physical Instability",
+        "day": "Day 11 - Physical Instability",
     },
     {
         "eng_question": "CCA must ask customer for 2 mobile numbers while escalating physical instability case",
@@ -1185,7 +1185,7 @@ questions = [
             "False",
         ],
         "correct_answer": "True",
-        "day": "Day - 11 Physical Instability",
+        "day": "Day 11 - Physical Instability",
     },
     {
         "eng_question": "CCA must inform cutomer with ticket number while escalating physical instability case",
@@ -1195,7 +1195,7 @@ questions = [
             "False",
         ],
         "correct_answer": "True",
-        "day": "Day - 11 Physical Instability",
+        "day": "Day 11 - Physical Instability",
     },
     {
         "eng_question": "In Physical instability case we will escalate the ticket to (Pilot Follow up) when problem solved after CST connected from main outlet",
@@ -1205,7 +1205,7 @@ questions = [
             "False",
         ],
         "correct_answer": "True",
-        "day": "Day - 11 Physical Instability",
+        "day": "Day 11 - Physical Instability",
     },
     {
         "eng_question": "While troubleshooting physical instability, Clear view result after search technical dispatch is recommended, next action is",
@@ -1215,7 +1215,7 @@ questions = [
             "Check last fix date according to TTS and customer input at same time",
         ],
         "correct_answer": "Check Connection type",
-        "day": "Day - 11 Physical Instability",
+        "day": "Day 11 - Physical Instability",
     },
     {
         "eng_question": "While Escalating Physical Instability Case to IU for third time, SLA will be",
@@ -1226,7 +1226,7 @@ questions = [
             "2 Working days",
         ],
         "correct_answer": "1 Day",
-        "day": "Day - 11 Physical Instability",
+        "day": "Day 11 - Physical Instability",
     },
     {
         "eng_question": "While troubleshooting physical instability, connection type: wall outlit, the next step",
@@ -1236,7 +1236,7 @@ questions = [
             "Check Splitter esistence before CPE",
         ],
         "correct_answer": "Check if connection right or Wrong",
-        "day": "Day - 11 Physical Instability",
+        "day": "Day 11 - Physical Instability",
     },
     {
         "eng_question": "While troubleshooting physical instability, connection type: wall outlit, Connection is right",
@@ -1246,7 +1246,7 @@ questions = [
             "Check Splitter esistence before CPE",
         ],
         "correct_answer": "Check Splitter esistence before CPE",
-        "day": "Day - 11 Physical Instability",
+        "day": "Day 11 - Physical Instability",
     },
     {
         "eng_question": "CST has BLQ Case, Customer operational speed is 12 Mb after make selt result was 800 M so you will",
@@ -1257,7 +1257,7 @@ questions = [
             "Escalate Need Optimization case - هنصعد need optimization",
         ],
         "correct_answer": "Follow voice verification then escalate BLQ - هنتابع خطوات ال voice verification ثم نصعد BLQ",
-        "day": "Day - 12 Bad Line Quality",
+        "day": "Day 12 - Bad Line Quality",
     },
     {
         "eng_question": "While TS BLQ case and CCA Check Line stability from line details from Assia and found that customer's line is Unstable so the next step is :",
@@ -1268,7 +1268,7 @@ questions = [
             "Handle as slowness case - تابع مع العميل مشكله Slowness",
         ],
         "correct_answer": "Inform Customer to wait 3 days until tests done on the line - هبلغ العميل انه يستني 3 أيام عشان فيه بعض الفحوصات بتم علي خطه",
-        "day": "Day - 12 Bad Line Quality",
+        "day": "Day 12 - Bad Line Quality",
     },
     {
         "eng_question": "CCA should check voice verification before Escalate BLQ case to confirm on voice status :",
@@ -1278,7 +1278,7 @@ questions = [
             "False",
         ],
         "correct_answer": "True",
-        "day": "Day - 12 Bad Line Quality",
+        "day": "Day 12 - Bad Line Quality",
     },
     {
         "eng_question": "In case escalation of Need Optimization case ask customer to leave the CPE power turned on",
@@ -1288,7 +1288,7 @@ questions = [
             "False",
         ],
         "correct_answer": "True",
-        "day": "Day - 12 Bad Line Quality",
+        "day": "Day 12 - Bad Line Quality",
     },
     {
         "eng_question": "In Case Ticket BLQ have Update ( Main wire changed ) and Cst still have the same problem, noting that line Supported by ASSIA and no change in the connection setup after our technician visit’s, so the right action is :",
@@ -1299,7 +1299,7 @@ questions = [
             "Re-Troubleshoot as BLQ - هنعيد خطوات ال BLQ",
         ],
         "correct_answer": "Re-Run the appropriate mode of Clear View - هنعمل اعاده تشغيل لل clear view باختيار mode المناسب",
-        "day": "Day - 12 Bad Line Quality",
+        "day": "Day 12 - Bad Line Quality",
     },
     {
         "eng_question": "it's not mandatory to take screenshots from selected Clear View mode and its result",
@@ -1309,7 +1309,7 @@ questions = [
             "False",
         ],
         "correct_answer": "True",
-        "day": "Day - 12 Bad Line Quality",
+        "day": "Day 12 - Bad Line Quality",
     },
     {
         "eng_question": " If Customer complaint within TS BLQ case from Bad Box issue , the right SR is :",
@@ -1320,7 +1320,7 @@ questions = [
             "FBB Tech Problem > BLQ > Ganzara Box",
         ],
         "correct_answer": "FBB Tech Problem > BLQ > Bad Box",
-        "day": "Day - 12 Bad Line Quality",
+        "day": "Day 12 - Bad Line Quality",
     },
     {
         "eng_question": "Need Optimization case will Escalate to :",
@@ -1331,7 +1331,7 @@ questions = [
             "Pilot-SLS",
         ],
         "correct_answer": "Pilot-SLS",
-        "day": "Day - 12 Bad Line Quality",
+        "day": "Day 12 - Bad Line Quality",
     },
     {
         "eng_question": "CST has BLQ ,line supported by ASSIA clear view after search Technician Dispatch is recommended the next step will :",
@@ -1342,7 +1342,7 @@ questions = [
             "Run Real-time Analysis - هنشغل ال real-time analysis",
         ],
         "correct_answer": "Check connection type - هنفحص نوع  التوصيلات",
-        "day": "Day - 12 Bad Line Quality",
+        "day": "Day 12 - Bad Line Quality",
     },
     {
         "eng_question": "CST has ASSIA output: Line is out of sync, CCA action as first step:",
@@ -1353,7 +1353,7 @@ questions = [
             "Ensure that the CPE is on - هنتاكد ان الراوتر شغال",
         ],
         "correct_answer": "Ensure that the CPE is on - هنتاكد ان الراوتر شغال",
-        "day": "Day - 12 Bad Line Quality",
+        "day": "Day 12 - Bad Line Quality",
     },
     {
         "eng_question": "ASSIA clear view result is, No immediate action is recommended, you action is?",
@@ -1364,7 +1364,7 @@ questions = [
             "Connect from main",
         ],
         "correct_answer": "Inform customer to wait 3 days until tests done one the line (Inform customer to leave CPE on during 3 days)",
-        "day": "Day - 12 Bad Line Quality",
+        "day": "Day 12 - Bad Line Quality",
     },
     {
         "eng_question": "We should infrom CST to leave CPE turned on while escalating BLQ case",
@@ -1374,7 +1374,7 @@ questions = [
             "False",
         ],
         "correct_answer": "True",
-        "day": "Day - 12 Bad Line Quality",
+        "day": "Day 12 - Bad Line Quality",
     },
     {
         "eng_question": "Line code is must set to ADSL2+ or VDSL according to CST port",
@@ -1384,7 +1384,7 @@ questions = [
             "False",
         ],
         "correct_answer": "True",
-        "day": "Day - 12 Bad Line Quality",
+        "day": "Day 12 - Bad Line Quality",
     },
     {
         "eng_question": "Line Code for ADSL2+ is",
@@ -1395,7 +1395,7 @@ questions = [
             "G-992-3",
         ],
         "correct_answer": "G-992-5",
-        "day": "Day - 12 Bad Line Quality",
+        "day": "Day 12 - Bad Line Quality",
     },
     {
         "eng_question": "CST has ticket in IU pool and passed SLA so you will",
@@ -1406,7 +1406,7 @@ questions = [
             "Inform CST wait follow up call",
         ],
         "correct_answer": "Create delay ticket and inform CST sla with 1 day",
-        "day": "Day - 12 Bad Line Quality",
+        "day": "Day 12 - Bad Line Quality",
     },
     {
         "eng_question": "CST has ticket need optimization escalated in 10:00 PM and CST calling at 11:30 PM in same day so you will",
@@ -1417,7 +1417,7 @@ questions = [
             "Inform CST waiting SLA",
         ],
         "correct_answer": "Inform CST waiting SLA",
-        "day": "Day - 12 Bad Line Quality",
+        "day": "Day 12 - Bad Line Quality",
     },
     {
         "eng_question": "CST has BLQ ticket with update (Working from exchange) without a visit update, right action is",
@@ -1428,7 +1428,7 @@ questions = [
             "Re-escalate case to IU pool",
         ],
         "correct_answer": "Re-escalate case to IU pool",
-        "day": "Day - 12 Bad Line Quality",
+        "day": "Day 12 - Bad Line Quality",
     },
     {
         "eng_question": "In BLQ case clear view reults after search is (Technical dispatch is recommended), and after running appropriate mode of Clear View result become (No DSL physical layer is detected), right action is",
@@ -1439,7 +1439,7 @@ questions = [
             "Check Diagnostic tab in line details",
         ],
         "correct_answer": "Check Diagnostic tab in line details",
-        "day": "Day - 12 Bad Line Quality",
+        "day": "Day 12 - Bad Line Quality",
     },
     {
         "eng_question": "Second time escalation SLA in BLQ case is",
@@ -1450,7 +1450,7 @@ questions = [
             "2 Hour",
         ],
         "correct_answer": "1 Day",
-        "day": "Day - 12 Bad Line Quality",
+        "day": "Day 12 - Bad Line Quality",
     },
     {
         "eng_question": "If customer has ADSL package, VSDL CPE and port is ADSL, CCA should follow change offering process to change the port from ADSL to VDSL in addition to handling the main case BLQ",
@@ -1460,7 +1460,7 @@ questions = [
             "False",
         ],
         "correct_answer": "True",
-        "day": "Day - 12 Bad Line Quality",
+        "day": "Day 12 - Bad Line Quality",
     },
     {
         "eng_question": "SLA for change speed need to Change Port is",
@@ -1471,7 +1471,7 @@ questions = [
             "On Spot",
         ],
         "correct_answer": "48 Hours",
-        "day": "Day - 13 Customer Request",
+        "day": "Day 13 - Customer Request",
     },
     {
         "eng_question": "SLA for change speed need to Change Port and Card is ",
@@ -1482,7 +1482,7 @@ questions = [
             "5 WD",
         ],
         "correct_answer": "5 WD",
-        "day": "Day - 13 Customer Request",
+        "day": "Day 13 - Customer Request",
     },
     {
         "eng_question": "Customer can change Speed from VDSL to ADSL ?",
@@ -1492,7 +1492,7 @@ questions = [
             "False",
         ],
         "correct_answer": "False",
-        "day": "Day - 13 Customer Request",
+        "day": "Day 13 - Customer Request",
     },
     {
         "eng_question": "SLA if CST need to make change package Not require Change Port with Lower Amount after due date",
@@ -1503,7 +1503,7 @@ questions = [
             "On Spot",
         ],
         "correct_answer": "On Spot",
-        "day": "Day - 13 Customer Request",
+        "day": "Day 13 - Customer Request",
     },
     {
         "eng_question": "There is no required data for Change phone number ?",
@@ -1513,7 +1513,7 @@ questions = [
             "False",
         ],
         "correct_answer": "False",
-        "day": "Day - 13 Customer Request",
+        "day": "Day 13 - Customer Request",
     },
     {
         "eng_question": "We can check Change phone number activity from",
@@ -1524,7 +1524,7 @@ questions = [
             "OM & BSS Order query",
         ],
         "correct_answer": "OM & BSS Order query",
-        "day": "Day - 13 Customer Request",
+        "day": "Day 13 - Customer Request",
     },
     {
         "eng_question": "If CST need to change contact name but his account status is suspend  What is the right action ?",
@@ -1535,7 +1535,7 @@ questions = [
             "Create TT",
         ],
         "correct_answer": "Inform cst to pay all his due amount first",
-        "day": "Day - 13 Customer Request",
+        "day": "Day 13 - Customer Request",
     },
     {
         "eng_question": "No required paper needed for changing data via stores ?",
@@ -1545,7 +1545,7 @@ questions = [
             "False",
         ],
         "correct_answer": "False",
-        "day": "Day - 13 Customer Request",
+        "day": "Day 13 - Customer Request",
     },
     {
         "eng_question": "Cst asked about Extra Quota ( Recurring Recharge ), SR is",
@@ -1556,7 +1556,7 @@ questions = [
             "FBB Non-Tech Inquiry---Quota----Extra Quota Recurring -cancellation",
         ],
         "correct_answer": "FBB Non-Tech Inquiry---Quota----Extra Quota Recurring",
-        "day": "Day - 13 Customer Request",
+        "day": "Day 13 - Customer Request",
     },
     {
         "eng_question": "Extra Quota ( Recurring Recharge ) renews every month automatically",
@@ -1566,7 +1566,7 @@ questions = [
             "False",
         ],
         "correct_answer": "True",
-        "day": "Day - 13 Customer Request",
+        "day": "Day 13 - Customer Request",
     },
     {
         "eng_question": "If CST need to change speed requires change port on or after Due Date or suspend life cycle, what is the right action?",
@@ -1577,7 +1577,7 @@ questions = [
             "Change it within call",
         ],
         "correct_answer": "We will inform the CST that he pays for the current package and requests the change at least 7 days before the renewal date",
-        "day": "Day - 13 Customer Request",
+        "day": "Day 13 - Customer Request",
     },
     {
         "eng_question": "In Case delay change VDSL port CCA right action is",
@@ -1588,7 +1588,7 @@ questions = [
             "Cancel order",
         ],
         "correct_answer": "Create Delay TT",
-        "day": "Day - 13 Customer Request",
+        "day": "Day 13 - Customer Request",
     },
     {
         "eng_question": "SLA if CST need to make change package with hight or same amount not required change port after due date via 111",
@@ -1599,7 +1599,7 @@ questions = [
             "1 WD",
         ],
         "correct_answer": "1 WH",
-        "day": "Day - 13 Customer Request",
+        "day": "Day 13 - Customer Request",
     },
     {
         "eng_question": "CST can make change package before due date via",
@@ -1611,7 +1611,7 @@ questions = [
             "All of the above",
         ],
         "correct_answer": "All of the above",
-        "day": "Day - 13 Customer Request",
+        "day": "Day 13 - Customer Request",
     },
     {
         "eng_question": "No required paper needed for changing package via stores",
@@ -1621,7 +1621,7 @@ questions = [
             "False",
         ],
         "correct_answer": "False",
-        "day": "Day - 13 Customer Request",
+        "day": "Day 13 - Customer Request",
     },
     {
         "eng_question": "if we didn't find any order on system due to change phone number to CST CCA will create TT",
@@ -1632,7 +1632,7 @@ questions = [
             "FBB Non-Tech inquiry >> Change Phone number >> Customer Request",
         ],
         "correct_answer": "FBB Non Technical Request >> Change Phone number >> MSAN",
-        "day": "Day - 13 Customer Request",
+        "day": "Day 13 - Customer Request",
     },
     {
         "eng_question": "Change phone number SLA is",
@@ -1643,7 +1643,7 @@ questions = [
             "48 WH",
         ],
         "correct_answer": "48 WH",
-        "day": "Day - 13 Customer Request",
+        "day": "Day 13 - Customer Request",
     },
     {
         "eng_question": "If CST make change phone number with same ADSL number but internet server is not working, what is the right action?",
@@ -1654,7 +1654,7 @@ questions = [
             "Inform CST SLA 48H",
         ],
         "correct_answer": "Handle case as a technical problem",
-        "day": "Day - 13 Customer Request",
+        "day": "Day 13 - Customer Request",
     },
     {
         "eng_question": "CST can make change (Mobile number & e-mail) through:",
@@ -1666,7 +1666,7 @@ questions = [
             "All the above",
         ],
         "correct_answer": "All the above",
-        "day": "Day - 13 Customer Request",
+        "day": "Day 13 - Customer Request",
     },
     {
         "eng_question": "Account status should be active is CST need to change mobile number",
@@ -1676,6 +1676,863 @@ questions = [
             "False",
         ],
         "correct_answer": "True",
-        "day": "Day - 13 Customer Request",
+        "day": "Day 13 - Customer Request",
+    },
+    {
+        "eng_question": "",
+        "arabic_question": "عميل يعاني من Logical Case و هو مشترك بالفعل علي خدمة ال Option Pack  , هل يجب تحويله الي قسم ال Option pack لمتابعة حل مشكلته.",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "True",
+        "day": "Day 14 - Unable to Obtain IP",
+    },
+    {
+        "eng_question": "",
+        "arabic_question": "اذا تم تصعيد شكوي Unable To Obtain IP  الي القسم المختص و كان ال update  الخاص بالشكوى (MAC Not Learned ) فما هو الاجراء الصحيح",
+        "options": [
+            "اعد كتابة ال User Name & password بحروف صغيره",
+            "اعداة ضبط مصنع و عمل اعدادات للراوتر",
+            "كتابة ال username & Password بشكل سليم",
+        ],
+        "correct_answer": "اعداة ضبط مصنع و عمل اعدادات للراوتر",
+        "day": "Day 14 - Unable to Obtain IP",
+    },
+    {
+        "eng_question": "",
+        "arabic_question": "يجب علي موظف الدعم الفني التأكد من ان الانترنت يعمل بكفاءة بمجرد حصول الراوتر علي IP  مره اخري في شكوي Unable To Obtain IP",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "True",
+        "day": "Day 14 - Unable to Obtain IP",
+    },
+    {
+        "eng_question": "",
+        "arabic_question": "يمكنك كممثل للدعم الفني معرفة اذا كان العميل مشترك علي أي خدمة من الخدمات الإضافية عن طريق",
+        "options": [
+            "OSS Tool",
+            "ASSIA Tool",
+            "BSS Tool",
+        ],
+        "correct_answer": "BSS Tool",
+        "day": "Day 14 - Unable to Obtain IP",
+    },
+    {
+        "eng_question": "",
+        "arabic_question": "في حالة وجود Log On NST ب Accepted Log with Suspended Account  سوف يكون الاجراء المتبع",
+        "options": [
+            "اعادة ضبط مصنع للراوتر",
+            "عمل اعدادات للراوتر بال  right credential",
+            "Restart Port",
+        ],
+        "correct_answer": "Restart Port",
+        "day": "Day 14 - Unable to Obtain IP",
+    },
+    {
+        "eng_question": "اذا تم حل مشكلة  Unable to Obtain IP  عن طريق Reset And Reconfigure  من اللازم علينا عمل Check MAC Address  و عمل ال SR المناسبة .",
+        "arabic_question": "",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "False",
+        "day": "Day 14 - Unable to Obtain IP",
+    },
+    {
+        "eng_question": "All CPE's  support HDM function",
+        "arabic_question": "HDM كل انواع الروتر مدعومة من خلال ال",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "False",
+        "day": "Day 14 - Unable to Obtain IP",
+    },
+    {
+        "eng_question": "Which actions is supported by HDM tool ??",
+        "arabic_question": "؟؟ HDM آي خاصية مدعومة بال",
+        "options": [
+            "Change Line Code",
+            "Change CPE Page password",
+            "Reset CPE",
+        ],
+        "correct_answer": "Reset CPE",
+        "day": "Day 14 - Unable to Obtain IP",
+    },
+    {
+        "eng_question": "",
+        "arabic_question": "في حالة وجود Log On NST للعميل ب (No Service Was Found) سوف تقوم ب",
+        "options": [
+            "Escalate to SLA",
+            "Escalate to SLS",
+            "Escalate to NOC",
+        ],
+        "correct_answer": "Escalate to SLS",
+        "day": "Day 14 - Unable to Obtain IP",
+    },
+    {
+        "eng_question": "",
+        "arabic_question": "اذا كان العميل مشترك جديد و يعاني من مشكلة Unable To Obtain IP  و كانت الحالة MAC Learned On Matrix Tool فما هي الخطوة التالية",
+        "options": [
+            "إعادة ضبط مصنع و عمل الاعدادات",
+            "اخبر العميل ان يجرب براوتر اخر",
+            "Escalate direct to NOC",
+        ],
+        "correct_answer": "إعادة ضبط مصنع و عمل الاعدادات",
+        "day": "Day 14 - Unable to Obtain IP",
+    },
+    {
+        "eng_question": "CST POP Utilization status whtin ratio, CCA follow with CST slowness case, so CCA right action?",
+        "arabic_question": "اسنترال العميل الحاله ببعتو Within ratio وانت اشتغلت معاه slowness case, هتعمل ايه؟",
+        "options": [
+            "Troubleshoot Normally",
+            "Stop troubleshooting and inform CST with script",
+            "Escalate ticket to NOC",
+        ],
+        "correct_answer": "Stop troubleshooting and inform CST with script",
+        "day": "Day 14 - Unable to Obtain IP",
+    },
+    {
+        "eng_question": "CST which subsriber in option pack, CCA can follow with CST a physical case?",
+        "arabic_question": "هل ممكن تتابع مع عميل مشترك ف ال option pack في مشكلة physical?",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "True",
+        "day": "Day 14 - Unable to Obtain IP",
+    },
+    {
+        "eng_question": "In Case unable to obtain IP, Router ADSL LED matches with matrix status while restarting?",
+        "arabic_question": "في حالة unable to obtain IP, حاله لمبة ال ADSL شبة ال Matrix ?",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "True",
+        "day": "Day 14 - Unable to Obtain IP",
+    },
+    {
+        "eng_question": "Its mandatory whene Escalating Unable to obtain IP to ask CST to leave CPE power turned on?",
+        "arabic_question": "لازم في حاله unable to obtain IP, تقول للعميل يسيب الروتر شغال؟",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "True",
+        "day": "Day 14 - Unable to Obtain IP",
+    },
+    {
+        "eng_question": "While escalating Unable to obtain IP case, CCA shouldn't check and mention on call Before escalation?",
+        "arabic_question": "و انت بتعمل تصعيد لمشكلة unable to obtain IP, مش لازم تأكد علي العميل المعاد في المكاملة",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "False",
+        "day": "Day 14 - Unable to Obtain IP",
+    },
+    {
+        "eng_question": "In case CST is not available to follow troubleshooting steps according to his input, nothing that we should try to help teh CST as much as we can, the right SR",
+        "arabic_question": "لو مش هنعرف نتابع حل المشكلة بتاعت العميل, هنعمل SR ايه؟",
+        "options": [
+            "FBB Tech Porblem >> Unable to obtain IP >> CST to CSO",
+            "FBB Tech Porblem >> Unable to obtain IP >> CST can not troubleshoot",
+            "FBB Tech Porblem >> Unable to obtain IP >> CST refused troubleshooting",
+        ],
+        "correct_answer": "FBB Tech Porblem >> Unable to obtain IP >> CST can not troubleshoot",
+        "day": "Day 14 - Unable to Obtain IP",
+    },
+    {
+        "eng_question": "In case CCA will escalate Unable to obtain IP case at 2PM, CCA not mandatory to check on call Befor escalation?",
+        "arabic_question": "في حالة انك هتصعد للعميل unable to obtain IP, الساعة 2PM مش لازم تأكد علي معاد المكلمة اثناء ال call?",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "True",
+        "day": "Day 14 - Unable to Obtain IP",
+    },
+    {
+        "eng_question": "It's not mandatory within the call to change the default password for CPE once CCA found Admin as default password?",
+        "arabic_question": "مش شرط نتصح العميل يغير password ال router لو لقيتو Admin",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "False",
+        "day": "Day 14 - Unable to Obtain IP",
+    },
+    {
+        "eng_question": "Which actions is supported by HDM tool",
+        "arabic_question": "ايه الممكن تعملو بل HDM tool",
+        "options": [
+            "Reset CPE",
+            "Change CPE page password",
+            "Change line code",
+        ],
+        "correct_answer": "Reset CPE",
+        "day": "Day 14 - Unable to Obtain IP",
+    },
+    {
+        "eng_question": "In case CCA check HDM tool and found it offline so CCA right action",
+        "arabic_question": "لو لقيت ال HDM tool offline, هتعمل ايه؟",
+        "options": [
+            "Restart Port",
+            "Inform CST to reser and reconfigure CPE",
+            "Handle All HDM related cases manually",
+        ],
+        "correct_answer": "Restart Port",
+        "day": "Day 14 - Unable to Obtain IP",
+    },
+    {
+        "eng_question": "For Escalation Browsing all site case status Will be?",
+        "arabic_question": "بتكون؟ Status ال  Browsing all site لتصعيد مشكلة",
+        "options": [
+            "Wating for reserche",
+            "waiting for response",
+            "open",
+        ],
+        "correct_answer": "open",
+        "day": "Day 15 - Browsing",
+    },
+    {
+        "eng_question": "cst has browsing certain site and after check the web through http://www.iidrn.com the web site is  down ,, next action",
+        "arabic_question": "وبعد browsing certain site العميل عنده مشكلة  الموقع مش شغال ,,, الخطوة التالية http://www.iidrn.com التأكد من خلال موقع",
+        "options": [
+            "Inform Customer That Might Be A Global Problem In That Site Right Now - هنبلغ العميل ان حاليا يوجد مشكلة عامة بالنسبة للموقع",
+            "check with another cpe - نجرب بروتر ثاني",
+            "troubleshoot normally - نتابع عادي",
+        ],
+        "correct_answer": "Inform Customer That Might Be A Global Problem In That Site Right Now - هنبلغ العميل ان حاليا يوجد مشكلة عامة بالنسبة للموقع",
+        "day": "Day 15 - Browsing",
+    },
+    {
+        "eng_question": "Before escalation browsing all site case you should Activate ping option on CPE page - if available",
+        "arabic_question": "بيكون browsing all site قبل تصعيد شكوي  من خلال صفحة الروتر إذا كان متاح  ping option من الضروري نفعل ال",
+        "options": [
+            "False",
+            "True",
+        ],
+        "correct_answer": "True",
+        "day": "Day 15 - Browsing",
+    },
+    {
+        "eng_question": "ipconfig command  responsible  to delete all DNS caches",
+        "arabic_question": "DNS caches مسئول عن مسح كل ال  ipconfigالأمر",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "False",
+        "day": "Day 15 - Browsing",
+    },
+    {
+        "eng_question": "cst has browsing certain site and after check the web site through proxy ,,the web site is working ,, next action",
+        "arabic_question": "وبعد browsing certain site عميل عنده مشكلة  الموقع شغال ,, الخطوة التالية  , proxy فحص الموقع من خلال",
+        "options": [
+            "Do Trace From Route Server To Customer's Wan IP and Attach It In TTS - TTS فال Attach  ويضيف ال Customer's Wan IP علي Trace From Route Server يعمل",
+            "inform Cst to try with another cpe - نبلغ العميل انه يجرب بروتر ثاني",
+            "Do flushDns",
+        ],
+        "correct_answer": "Do Trace From Route Server To Customer's Wan IP and Attach It In TTS - TTS فال Attach  ويضيف ال Customer's Wan IP علي Trace From Route Server يعمل",
+        "day": "Day 15 - Browsing",
+    },
+    {
+        "eng_question": "For Escalation Browsing (Wrong Nas Port ID) case status Will be  ?",
+        "arabic_question": "هتكون ؟ Status ال  (Wrong Nas Port ID) لتصعيد مشكلة",
+        "options": [
+            "Waiting for customer",
+            "Waiting for response",
+            "Open",
+        ],
+        "correct_answer": "Waiting for response",
+        "day": "Day 15 - Browsing",
+    },
+    {
+        "eng_question": "It's not mandatory to inform Cst Ticket Number during escalation browsing case",
+        "arabic_question": "browsing case ليس من الضروري ان يتم تبليغ العميل برقم الشكوي اثناء تصعيد مشكلة",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "False",
+        "day": "Day 15 - Browsing",
+    },
+    {
+        "eng_question": "customer can open YouTube / Facebook but contents doesn’t appeared ,,first step is ??",
+        "arabic_question": "ولكن المحتوي مش بيظهر ,,, الخطوة الأولي هي ؟؟ YouTube / Facebook العميل بيفتح ال",
+        "options": [
+            "let the customer send a snapshot from trace from his/her side to Customer.care@te.eg adding his/her ADSL number in mail subject then escalate the case without any troubleshooting.",
+            "IF CPE accessed try to adjust MTU and DNS [WE then Google DNS]",
+            "follow normal troubleshoot",
+        ],
+        "correct_answer": "IF CPE accessed try to adjust MTU and DNS [WE then Google DNS]",
+        "day": "Day 15 - Browsing",
+    },
+    {
+        "eng_question": "if cst has redirection  tkt in SLS Pool and cst call after sla",
+        "arabic_question": "SLA والعميل بيتصل بعد ال SLS موجودة مع قسم ال  redirection في حالة ان العميل عنده مشكلة",
+        "options": [
+            "will inform cst to wait  2H",
+            "will close TKT",
+            "Will renew sla 72 h",
+        ],
+        "correct_answer": "Will renew sla 72 h",
+        "day": "Day 15 - Browsing",
+    },
+    {
+        "eng_question": "IF CST make Ping Bras and result is Request timed out from BRAS IP ,,next action is",
+        "arabic_question": " الخطوة القادمة هي ,,, Request timed out والنتيجة كانت Ping Bras في حالة ان العميل عمل",
+        "options": [
+            "Check with another CPE - يجرب بروتر ثاني",
+            "Restart Port",
+            "Reset CPE",
+        ],
+        "correct_answer": "Check with another CPE - يجرب بروتر ثاني",
+        "day": "Day 15 - Browsing",
+    },
+    {
+        "eng_question": "CCA can check CST pool of his subscription from NST",
+        "arabic_question": "بنعرف منين ايه الخدمات العميل مشترك فيها؟",
+        "options": [
+            "Subscriber Database logs",
+            "Query LDAP profile",
+            "Query AAA Session",
+        ],
+        "correct_answer": "Query LDAP profile",
+        "day": "Day 15 - Browsing",
+    },
+    {
+        "eng_question": "Escalation Suspended account cas SLA will be",
+        "arabic_question": "تصعيد ال حساب ال suspended اد ايه SLA ?",
+        "options": [
+            "48 H",
+            "72 H",
+            "24 H",
+        ],
+        "correct_answer": "72 H",
+        "day": "Day 15 - Browsing",
+    },
+    {
+        "eng_question": "While CST has (Wrong Nas Port ID Login) and CCA will Escalate Ticket, SLA will be?",
+        "arabic_question": "لو العميل عندو (Wrong Nas Port ID Login) و انت هتصعد شكوة, ال SLA هتكون اد ايه؟",
+        "options": [
+            "2 : 5 WH",
+            "2 : 5 H",
+            "24 H",
+        ],
+        "correct_answer": "2 : 5 H",
+        "day": "Day 15 - Browsing",
+    },
+    {
+        "eng_question": "CCA can change DNS from HDM tool function",
+        "arabic_question": "ممكن تغير ال DNS من انهي funtion في ال HDM tool?",
+        "options": [
+            "WAN Settings",
+            "WLAN Settings",
+            "DHCP Settings",
+        ],
+        "correct_answer": "WAN Settings",
+        "day": "Day 15 - Browsing",
+    },
+    {
+        "eng_question": "CCA can change default Gateway IP address from which HDM Function",
+        "arabic_question": "ممكن تغير IP صفحة الروتر منيين في ال HDM TOOL",
+        "options": [
+            "WLAN Settings",
+            "DHCP Settings",
+            "WAN Settings",
+        ],
+        "correct_answer": "DHCP Settings",
+        "day": "Day 15 - Browsing",
+    },
+    {
+        "eng_question": "For Escalation Browsing all sites case TT will be",
+        "arabic_question": "ايه هي ال TT لتصعيد مشكلة browsing all sites",
+        "options": [
+            "Broadband >> Technical >> ADSL/VDSL >> MCU call center >> Browsing",
+            "Broadband >> Technical >> ADSL/VDSL >> I Care >> Browsing",
+            "Broadband >> Technical >> ADSL/VDSL >> MCU call center >> Browsing all sites",
+        ],
+        "correct_answer": "Broadband >> Technical >> ADSL/VDSL >> I Care >> Browsing",
+        "day": "Day 15 - Browsing",
+    },
+    {
+        "eng_question": "CST can open YouTube/Facebook but contents doesn't appeared, First step is?",
+        "arabic_question": "العميل بيفتح youtube/Facebook بس مفيش محتوي بيظهر؟",
+        "options": [
+            "Let the CST send a snapshot from trace from his/her side to Customer.care@te.eg",
+            "Follow normal troubleshoot",
+            "If CPE accessed try to adjust MTU and DNS [We then Google DNS]",
+        ],
+        "correct_answer": "If CPE accessed try to adjust MTU and DNS [We then Google DNS]",
+        "day": "Day 15 - Browsing",
+    },
+    {
+        "eng_question": "In case CST input that he paid the package bill within 24 hours, and line is active on BSS, and get online service in matrix not blocked",
+        "arabic_question": "في حالة ان العميل دفع فاتورة في اخر 24 ساعة و الخط شغال علي ال BSS و علي ال matrix مش blocked",
+        "options": [
+            "Troubleshoot Browsing case",
+            "Inform CST to wait 24 hours",
+            "Restart Port",
+        ],
+        "correct_answer": "Restart Port",
+        "day": "Day 15 - Browsing",
+    },
+    {
+        "eng_question": "WE DNS IS",
+        "arabic_question": "ال DNS بتاع WE",
+        "options": [
+            "8.8.8.8 // 8.8.4.4",
+            "192.168.1.1",
+            "163.121.128.134 /// 163.121.128.135",
+        ],
+        "correct_answer": "163.121.128.134 /// 163.121.128.135",
+        "day": "Day 15 - Browsing",
+    },
+    {
+        "eng_question": "The first piority goes to",
+        "arabic_question": "الاولويه في ال DNS ل ايه ؟",
+        "options": [
+            "Google DNS",
+            "External DNS",
+            "WE DNS",
+        ],
+        "correct_answer": "WE DNS",
+        "day": "Day 15 - Browsing",
+    },
+    {
+        "eng_question": "Voice Not working or Out of Service and voice Problem wasn't due to unpaid landline bills and still exist after paying the bills CCA action will be...?",
+        "arabic_question": "",
+        "options": [
+            "Transfer CST to fixed line Q",
+            "Create UCRM ( RCR Complaint )",
+            "Phone set available step",
+        ],
+        "correct_answer": "Phone set available step",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "CCA found that CST's landline number has work order رفع مؤقت لعدم السداد In Customer Profile Tool ......CCA action will be...?",
+        "arabic_question": "",
+        "options": [
+            "Inform CST to pay all landline bills",
+            "Inform CST to pay all due installments",
+            "Follow change phone number process",
+        ],
+        "correct_answer": "Inform CST to pay all landline bills",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "While T.S Voice Verification with CST is calling from different landline number and inform us that voice is working CCA action will be ...?",
+        "arabic_question": "",
+        "options": [
+            "Confirm that customer tested voice before call with phone set",
+            "Consider voice up",
+            "Call CST landline number",
+        ],
+        "correct_answer": "Confirm that customer tested voice before call with phone set",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "Voice Down TT SLA is...?",
+        "arabic_question": "",
+        "options": [
+            "3 Days",
+            "2 Days",
+            "1 Day",
+        ],
+        "correct_answer": "1 Day",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "In case the customer paid his/her landline bills, and the phone is still receiving only which SR CCA Will create ...?",
+        "arabic_question": "",
+        "options": [
+            "FBB Tech Problem ---- ​​​Voice Down --- ​Recorded Message While Calling",
+            "FBB Tech Problem ---- ​​​Voice Down --- ​Another case",
+            "FBB Tech Problem ---- ​​​Voice Down --- ​​Cut off",
+        ],
+        "correct_answer": "FBB Tech Problem ---- ​​​Voice Down --- ​​Cut off",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "CST has noise problem not related to physical issue after checking from cordless phone set noise still the same CCA next action will be  ...?",
+        "arabic_question": "",
+        "options": [
+            "Create TT Voice Down",
+            "Create SR Noise problem",
+            "Let customer connect directly from main wire without any splitter or any CPE or any phone set connected",
+        ],
+        "correct_answer": "Let customer connect directly from main wire without any splitter or any CPE or any phone set connected",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "CCA found IRB with due amount 0 that’s mean that ...?",
+        "arabic_question": "",
+        "options": [
+            "Cst paid all due amounts",
+            "Cst request to cancel internet service",
+            "There is an old unpaid bill",
+        ],
+        "correct_answer": "There is an old unpaid bill",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "In case line has Matrix and order status is completed Call back to CRM but no wire connected from cabin to customer side CCA action will be...?",
+        "arabic_question": "",
+        "options": [
+            "escalate data and voice down TT to IU + Create SR",
+            "escalate data and voice down TT to IU",
+            "Inform CST 3 days + Create SR",
+        ],
+        "correct_answer": "escalate data and voice down TT to IU + Create SR",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "Way of communication with CST in escalation Data Down to IU will be:",
+        "arabic_question": "",
+        "options": [
+            "Call or SMS",
+            "Call or SMS or Recorded Message",
+            "Call or Recorded Message",
+        ],
+        "correct_answer": "Call or SMS or Recorded Message",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "While T.S Data Down Case With Cst Adsl Led is Stable and line Become Up , CCA Action ....",
+        "arabic_question": "",
+        "options": [
+            "Escalate to IU",
+            "Inform CST with solvent",
+            "Follow Instability troubleshoot",
+        ],
+        "correct_answer": "Follow Instability troubleshoot",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "If Data Down Case solved  after Cst Connect From Main Wall outlet and you will create TT to Pilot Follow Up Team , way of communication will be:",
+        "arabic_question": "",
+        "options": [
+            "Call or SMS or Recorded Message",
+            "Call only",
+            "Call or SMS",
+        ],
+        "correct_answer": "Call only",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "If CST has Data Down case and connected form main wall outlet and problem solved you will:",
+        "arabic_question": "",
+        "options": [
+            "Create TT for Pilot follow up team and inform CST with 2 hours SLA",
+            "Create TT for follow up team and inform CST with 5 hours SLA",
+            "Create TT for Pilot follow up team  and inform CST with 2 days SLA",
+        ],
+        "correct_answer": "Create TT for Pilot follow up team and inform CST with 2 hours SLA",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "In-case of delay in second escalation for Data Down case, no need to create delayed ticket:",
+        "arabic_question": "",
+        "options": [
+            "TRUE",
+            "FALSE",
+        ],
+        "correct_answer": "FALSE",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "If ​CST has Data Down case and follow on his ticket after SLA for re-escalated ticket SR will be:",
+        "arabic_question": "",
+        "options": [
+            "FBB Tech Problem --> Data Down --> Follow Up after Re-Escalation -  After SLA",
+            "FBB Tech Problem --> Data Down --> Follow Up After SLA",
+            "FBB Tech Problem --> Data Down --> Follow Up",
+        ],
+        "correct_answer": "FBB Tech Problem --> Data Down --> Follow Up after Re-Escalation -  After SLA",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "Ticket Wrong Card and Port second escalation will be escalate to :",
+        "arabic_question": "",
+        "options": [
+            "Second level Advanced",
+            "Pilot-Follow Up",
+            "IU Maintenance",
+        ],
+        "correct_answer": "IU Maintenance",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "It's not mandatory to ask customer for 2 mobiles numbers while escalating any physical case",
+        "arabic_question": "",
+        "options": [
+            "TRUE",
+            "false",
+        ],
+        "correct_answer": "false",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "Cst has Ticket WCAP in IU Pool and TKT Passed SLA , So CCA will inform cst SLA :",
+        "arabic_question": "",
+        "options": [
+            "1 Day",
+            "2 Days",
+            "1 Working Day",
+        ],
+        "correct_answer": "1 Day",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "Customer Follow up escalated ticket (Wrong Card and Port) but it was pass SLA , So right SR is :",
+        "arabic_question": "",
+        "options": [
+            "FBB Tech Problem>Wrong Card and port>Follow Up",
+            "FBB Tech Problem>Wrong Card and port>Re Escalation",
+            "FBB Tech Problem>Wrong Card and port>Follow up After SLA",
+        ],
+        "correct_answer": "FBB Tech Problem>Wrong Card and port>Follow up After SLA",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "Cst has Internet not working and Router ADSL LED (VS) Matrix Status Both UP , While restart port , Router ADSL LED not matches with Matrix , it's  :",
+        "arabic_question": "",
+        "options": [
+            "Physical Instability",
+            "Data Down",
+            "Wrong card and Port",
+        ],
+        "correct_answer": "Wrong card and Port",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "While follow up with cst WCAP case CCA need to check that cst don't  have Duplicated Matrix :",
+        "arabic_question": "",
+        "options": [
+            "FALSE",
+            "TRUE",
+        ],
+        "correct_answer": "TRUE",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "Customer Follow up his ticket (Wrong Card and Port) and the TKT Has update Major Fault within First SLA , So right SR :",
+        "arabic_question": "",
+        "options": [
+            "FBB Tech Problem>Wrong card and port>Major Fault",
+            "FBB Tech Problem>Wrong card and port>Major Fault after SLA",
+            "FBB Tech Problem>Wrong card and port>Major Fault within SLA",
+        ],
+        "correct_answer": "FBB Tech Problem>Wrong card and port>Major Fault within SLA",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "If the Customer number belongs to Hayah Karima project and cst has Major Fault with no estimated time , SLA will be :",
+        "arabic_question": "",
+        "options": [
+            "3 working days",
+            "3 days",
+            "5 Days",
+        ],
+        "correct_answer": "5 Days",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "In case customer has Major Fault update with no estimated time while no outage on CST360 and Passed SLA , CCA right action :",
+        "arabic_question": "",
+        "options": [
+            "will Re-escalate the ticket again",
+            "will Close this ticket and re-troubleshoot",
+            "will re-troubleshoot with following normal process",
+        ],
+        "correct_answer": "will Re-escalate the ticket again",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "In case the ticket returned with updated CPE problem close code 74 , So CCA right action is :",
+        "arabic_question": "",
+        "options": [
+            "CCA will Re-escalate the ticket again",
+            "CCA will inform customer to check his CPE on CSO",
+            "CCA will Re-troubleshoot with following normal process",
+        ],
+        "correct_answer": "CCA will inform customer to check his CPE on CSO",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "Ticket with Update Global number of ports, mail sent to responsible team and there is No outage exist on Cst 360 tool , So CCA right action is :",
+        "arabic_question": "",
+        "options": [
+            "CCA will act according to the outage rules",
+            "CCA will Inform cst sla No estimated time",
+            "CCA will not withdraw the ticket from follow up pool and will inform the customer that follow up team will follow with him during the day",
+        ],
+        "correct_answer": "CCA will not withdraw the ticket from follow up pool and will inform the customer that follow up team will follow with him during the day",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "In case CST has TKT with update Major Fault Problem with estimated time 2 weeks , CCA right action",
+        "arabic_question": "",
+        "options": [
+            "Will inform cst with no estimated time",
+            "will act according mentioned estimated",
+        ],
+        "correct_answer": "will act according mentioned estimated",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "While Escalating Physical Instability Case to IU for third time , SLA will be :",
+        "arabic_question": "",
+        "options": [
+            "1 Day",
+            "2 Day",
+        ],
+        "correct_answer": "1 Day",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "Time Frame For Physical Instability  Case :",
+        "arabic_question": "",
+        "options": [
+            "5 days",
+            "2 day",
+            "1 days",
+        ],
+        "correct_answer": "5 days",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "while troubleshooting physical instability, After run clear view result is : Run Real Time Profile Optimization, right action is :",
+        "arabic_question": "",
+        "options": [
+            "Check Voice Verification then Escalate to IU",
+            "check connection",
+        ],
+        "correct_answer": "Check Voice Verification then Escalate to IU",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "while troubleshooting physical instability ,CCA found Landline bills is 80 LE and passed the grace period , CCA stop troubleshooting and inform CST that he has to pay his bills first, right SR is :",
+        "arabic_question": "",
+        "options": [
+            "FBB Tech Problem >​ Physical Instability > CPE Problem",
+            "FBB Tech Problem > ​​Physical Instability >TE-Billing",
+            "FBB Tech Problem > ​​Physical Instability > ​Follow Up",
+        ],
+        "correct_answer": "FBB Tech Problem > ​​Physical Instability >TE-Billing",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "CST has physical instability  , connection type : Main Wire , problem solved after CST connected  from Main Wire , right SR is :",
+        "arabic_question": "",
+        "options": [
+            "FBB Tech Problem > ​​Physical Instability > ​Internal Wiriring",
+            "FBB Tech Problem > ​​Physical Instability > ​Follow Up",
+        ],
+        "correct_answer": "FBB Tech Problem > ​​Physical Instability > ​Internal Wiriring",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "what the meaning of clear view result after search NO dsl physical layer issue is detected ?",
+        "arabic_question": "",
+        "options": [
+            "as per assia observation the cst problem not physical",
+            "as per assia observation the cst problem  physical",
+        ],
+        "correct_answer": "as per assia observation the cst problem not physical",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "CST has Physical Instability ticket with update ( Ganzara removed ) and CST has the same problem , noting that line Supported by ASSIA, right action is :",
+        "arabic_question": "",
+        "options": [
+            "Escalate to IU",
+            "Inform cst Line Will Stable Automatically After this Fix",
+            "Re-Run the appropriate mode of Clear View ,, If there is no change in the connection setup after our technician visit’s",
+        ],
+        "correct_answer": "Re-Run the appropriate mode of Clear View ,, If there is no change in the connection setup after our technician visit’s",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "In case of customer has BLQ case and during the troubleshooting , CCA found that Voice is down , CCA right action is :",
+        "arabic_question": "",
+        "options": [
+            "Escalate BLQ with mention that voice down",
+            "Escalate BLQ",
+            "Escalate as voice down and mandatory add all BLQ TS steps",
+        ],
+        "correct_answer": "Escalate as voice down and mandatory add all BLQ TS steps",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "Way of communication while escalating BLQ case will be (Call / SMS) Only?",
+        "arabic_question": "",
+        "options": [
+            "TRUE",
+            "FALSE",
+        ],
+        "correct_answer": "FALSE",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "CST has BLQ ticket with update Welding Removed and no change done from cst side and after run Assia clear view , result was No DSL physical layer issue detected so you will :",
+        "arabic_question": "",
+        "options": [
+            "Re-Escalate the Ticket to IU Pool",
+            "inform cst that no problem now and line working fine",
+            "Re-Troubleshoot as BLQ Supported By ASSIA in Ticket Maker.",
+        ],
+        "correct_answer": "Re-Troubleshoot as BLQ Supported By ASSIA in Ticket Maker.",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "Need Optimization SLA is :",
+        "arabic_question": "",
+        "options": [
+            "1 WD",
+            "1 Day",
+            "1 Hour From 9 AM to 10 PM",
+        ],
+        "correct_answer": "1 Hour From 9 AM to 10 PM",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "CST has BLQ ticket with update ( working from exchange ) without a visit update , right action is :",
+        "arabic_question": "",
+        "options": [
+            "inform CST that the problem solved",
+            "Re-escalate case to IU pool",
+            "Re-Troubleshoot BLQ",
+        ],
+        "correct_answer": "Re-escalate case to IU pool",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "We should inform CST to leave CPE turned on while escalating BLQ case?",
+        "arabic_question": "",
+        "options": [
+            "TRUE",
+            "FALSE",
+        ],
+        "correct_answer": "TRUE",
+        "day": "Second Quiz",
+    },
+    {
+        "eng_question": "Line code for ADSL2+ is :",
+        "arabic_question": "",
+        "options": [
+            "G-992-5",
+            "G-992-3",
+            "G-992-2",
+        ],
+        "correct_answer": "G-992-5",
+        "day": "Second Quiz",
     },
 ]

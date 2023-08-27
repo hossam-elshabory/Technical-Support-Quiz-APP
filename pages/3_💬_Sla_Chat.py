@@ -21,7 +21,7 @@ st.title("⌚ SLA Chat Search 🔍")
 
 st.markdown(
     '<div style="background-color: #e6f7ff; padding: 10px; border-radius: 5px; font-family: Cairo; direction: rtl;">'
-    '<span style="color: #0066cc; font-weight: bold;">🔰اكتب اسم ال SLA زي ما مكتوبه في ال PDF و هيطلعلك الناتج.</span>'
+    '<span style="color: #0066cc; font-weight: bold;">🔰 اكتب اسم ال SLA زي ما مكتوبه في ال PDF و هيطلعلك الناتج.</span>'
     "</div>",
     unsafe_allow_html=True,
 )
