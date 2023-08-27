@@ -8,6 +8,7 @@ default_days = [
     "Day 13 - Customer Request",
     "Day 14 - Unable to Obtain IP",
     "Day 15 - Browsing",
+    "Day 16 - Logical Instability",
 ]
 
 
@@ -99,6 +100,15 @@ def display_message_to_users():
     st.markdown(
         '<div style="background-color: #FFF3C2; border-left: 6px solid #FF9800; padding: 10px; border-radius: 5px; display: flex; align-items: center; direction: rtl; font-family: Cairo;">'
         '<span style="color: #333; font-weight: bold; margin-right: 10px;">⚠ نتأكد من الأسئلة و احنا بنحل, لو حد لقي سؤال شاكيك فيه بيعت علي الجروب</span>'
+        "</div>",
+        unsafe_allow_html=True,
+    )
+
+    st.write("")
+
+    st.markdown(
+        '<div style="background-color: #e6f7ff; padding: 10px; border-radius: 5px; font-family: Cairo; direction: rtl;">'
+        '<span style="color: #0066cc; font-weight: bold;">🔰 اختر الأيام العاوز تحل ال Quiz بتعها (أيام ال Logical هي المختارة بشكل تلقائي).</span>'
         "</div>",
         unsafe_allow_html=True,
     )

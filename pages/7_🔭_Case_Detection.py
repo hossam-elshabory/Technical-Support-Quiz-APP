@@ -8,6 +8,7 @@ items = {
         "Day 15 - Browsing.png",
         "Day 15 - Browsing certain websites.png",
     ],
+    "Day 16 Logical Instability": ["Day 16 Logical Instability.png"]
     # Add more items and image filenames as needed
 }
 
