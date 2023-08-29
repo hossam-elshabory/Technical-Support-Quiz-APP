@@ -17,7 +17,7 @@ st.markdown(
     '<div style="background-color: #E8F4FD; padding: 10px; border-radius: 10px; border-left: 4px solid #3498DB; direction: rtl;">'
     '<h3 style="color: #3498DB; margin-top: 0; width: 100%; text-align: right;">تحديثات</h3>'
     '<ul style="list-style-type: disc; padding-inline-start: 30px; color: #333; font-family: Cairo; direction: rtl;">'
-    "<li>تم اضافة ال Second Quiz و كل الايام لحد Day 16 Logical Instability.</li>"
+    "<li>تم اضافة ال Second Quiz و كل الايام لحد Day 18 - Outage & System Handling.</li>"
     "<li>دلوقتي تقدر تتحكم في نسبة تشابه السؤال في ال Search Question❓.</li>"
     "<li>تم اضافة صور لاختيارات ال Case Detection لي (Unable to obtain IP + Browsing + Logical Instability).</li>"
     "</ul>"
