@@ -9,6 +9,7 @@ default_days = [
     "Day 14 - Unable to Obtain IP",
     "Day 15 - Browsing",
     "Day 16 - Logical Instability",
+    "Day 17 - Slowness",
 ]
 
 
