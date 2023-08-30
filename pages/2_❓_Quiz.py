@@ -11,6 +11,7 @@ default_days = [
     "Day 16 - Logical Instability",
     "Day 17 - Slowness",
     "Day 18 - Outage & System Handling",
+    "Day 19 - Concession",
 ]
 
 
@@ -110,7 +111,7 @@ def display_message_to_users():
 
     st.markdown(
         '<div style="background-color: #e6f7ff; padding: 10px; border-radius: 5px; font-family: Cairo; direction: rtl;">'
-        '<span style="color: #0066cc; font-weight: bold;">🔰 اختر الأيام العاوز تحل ال Quiz بتعها (أيام ال Logical هي المختارة بشكل تلقائي).</span>'
+        '<span style="color: #0066cc; font-weight: bold;">🔰 اختر الأيام العاوز تحل ال Quiz بتعها (الأيام ال Logical هي المختارة بشكل تلقائي ,الهي بتاعت QUIZ بكره).</span>'
         "</div>",
         unsafe_allow_html=True,
     )

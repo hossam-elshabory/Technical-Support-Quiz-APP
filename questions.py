@@ -3183,4 +3183,213 @@ questions = [
         "correct_answer": "Create Record on IR cases and inform CST 2 hours SLA",
         "day": "Day 18 - Outage & System Handling",
     },
+    {
+        "eng_question": "Telephonet Cst call us Today and  has Ticket BLQ Closed in 1-3-2022 and need compensation about his ticket CCA Action",
+        "arabic_question": "عميل تليفونت بيتواصل معانا النهارده و عايز تعويض عن شكوي BLQ اتقفلت يوم 1-3-2022  الاجراء المناسب هيكون ..؟",
+        "options": [
+            "Inform cst Concession Process and Create(FBB Non-Tech Inquiry>Billing Adjustment>Technical Concession) هنبلغ العميل بالاجراءات الخاصة بالتعويض و نعمل ال SR  دي",
+            "Create TT  ( Telephonet > Billing Adjustment > Tech Concession BLQ ) هنعمل ال TT دي",
+        ],
+        "correct_answer": "Inform cst Concession Process and Create(FBB Non-Tech Inquiry>Billing Adjustment>Technical Concession) هنبلغ العميل بالاجراءات الخاصة بالتعويض و نعمل ال SR  دي",
+        "day": "Day 19 - Concession",
+    },
+    {
+        "eng_question": "In case Normal  cst has Ticket data and voice down with Tittle  (Major Fault Problem ) and call us asked about Concession CCA Right Action",
+        "arabic_question": "عميل عادي عنده شكوي Data and voice down major fault عطل جسيم و العميل بيطلب تعويض الاجراء المناسب هيكون ؟",
+        "options": [
+            "Create TT  ( Telephonet > Billing Adjustment > Tech Concession Global problem or outage ) هنعمل ال TT دي ",
+            "Create TT  ( FBB Non Technical Request>Billing Adjustment >Tech Concession Global problem or outage ) هنعمل ال TT دي",
+        ],
+        "correct_answer": "Create TT  ( FBB Non Technical Request>Billing Adjustment >Tech Concession Global problem or outage ) هنعمل ال TT دي",
+        "day": "Day 19 - Concession",
+    },
+    {
+        "eng_question": "if cst ask about stolen cable concession and found data and voice down tkt on TTS ,your action",
+        "arabic_question": "Data and Voice down العميل بيطلب يتعوض عن مشكلة سرقة كابلات ولقينا شكوى موجودة",
+        "options": [
+            "Follow Technical concession process",
+            "Create TT and inform cst SLA with  21 WD",
+        ],
+        "correct_answer": "Follow Technical concession process",
+        "day": "Day 19 - Concession",
+    },
+    {
+        "eng_question": "if there is no outage ID From CST360 , next step",
+        "arabic_question": "CST 360 موجود على Outage IDلو مفيش",
+        "options": [
+            "we will not compensate cst",
+            "we will check BSS SR related to outage",
+            "we will check change location",
+        ],
+        "correct_answer": "we will check BSS SR related to outage",
+        "day": "Day 19 - Concession",
+    },
+    {
+        "eng_question": "IF CST not satisfied about concession result we will ….",
+        "arabic_question": "لو العميل مش راضي عن نتيجة طلب التعويض",
+        "options": [
+            "Create TT and inform cst 24 h",
+            "Create SR",
+        ],
+        "correct_answer": "Create TT and inform cst 24 h",
+        "day": "Day 19 - Concession",
+    },
+    {
+        "eng_question": "We can compensate cst about not paid period",
+        "arabic_question": "نقدر نعوض العميل عن الفترات الغير مدفوعة",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "False",
+        "day": "Day 19 - Concession",
+    },
+    {
+        "eng_question": "In Case cst Refused Concession Result CCA Action Will create TT and should Mention",
+        "arabic_question": "في حالة شكوي العميل من نتيجة التعويض سنقوم بعمل TT ولازم نوضح فيها ...؟",
+        "options": [
+            "Ticket ID  رقم الشكوي",
+            "Secondary mobile & TT serial number رقم موبايل تاني للتواصل و رقم الشكوي الاصلية",
+        ],
+        "correct_answer": "Secondary mobile & TT serial number رقم موبايل تاني للتواصل و رقم الشكوي الاصلية",
+        "day": "Day 19 - Concession",
+    },
+    {
+        "eng_question": "We can compensate cst for tkt closed since ….",
+        "arabic_question": "نقدر نعوض العميل عن تيكت مقفوله خلال",
+        "options": [
+            "9 months",
+            "3 months",
+            "6 months",
+        ],
+        "correct_answer": "3 months",
+        "day": "Day 19 - Concession",
+    },
+    {
+        "eng_question": "Cst can Get compensation for any ticket with ",
+        "arabic_question": "التعويض بيكون عبارة عن",
+        "options": [
+            "Balance Or Free Quota as per cst need",
+            "Balance Only",
+            "Free Quota Only",
+        ],
+        "correct_answer": "Balance Or Free Quota as per cst need",
+        "day": "Day 19 - Concession",
+    },
+    {
+        "eng_question": "SLA For Concession Revalidation  Will Be",
+        "arabic_question": "ال SLA الخاصة ب Concession Revalidation هتكون ؟",
+        "options": [
+            "23 H",
+            "24 H",
+            "2 H",
+        ],
+        "correct_answer": "24 H",
+        "day": "Day 19 - Concession",
+    },
+    {
+        "eng_question": "if CST ask about concession and no outage id on CST360 and no BSS SR related to outage we must check change location in matrix logs",
+        "arabic_question": "لو اعميل طلب تعويض و مفيش outage علي ال CST360 ولا SR علي ال BSS لازم نشوف ال change location من ال matrix",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "True",
+        "day": "Day 19 - Concession",
+    },
+    {
+        "eng_question": "If CSt ask about stolen cable concession and no data and voice down TKT on TTS, your action",
+        "arabic_question": "لو اعميل سأل عن تعويض stolen cable و مكنش في data and voice down علي ال TTS",
+        "options": [
+            "We will create TT and Inform CST he will receive call or sms within 24H",
+            "We will create TT and inform CST he will receive call or sms within 21 WD",
+            "We will create SE",
+        ],
+        "correct_answer": "We will create TT and inform CST he will receive call or sms within 21 WD",
+        "day": "Day 19 - Concession",
+    },
+    {
+        "eng_question": "Complain concession will be created from",
+        "arabic_question": "ال complain concession بتتعمل منين",
+        "options": [
+            "Agent and tream leaders",
+            "agents only",
+            "Complain team or team leaders",
+        ],
+        "correct_answer": "Complain team or team leaders",
+        "day": "Day 19 - Concession",
+    },
+    {
+        "eng_question": "Concession complain will be Add-ons",
+        "arabic_question": "ال complain concession هتكون Add-on",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "True",
+        "day": "Day 19 - Concession",
+    },
+    {
+        "eng_question": "We can compensate CST has suspend account",
+        "arabic_question": "هل ممكن نعوض عميل عندو suspend account",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "False",
+        "day": "Day 19 - Concession",
+    },
+    {
+        "eng_question": "SLA for Technical concession case",
+        "arabic_question": "SLA بتاع ال technical concession",
+        "options": [
+            "24 H",
+            "1 H",
+            "2 WH",
+        ],
+        "correct_answer": "2 WH",
+        "day": "Day 19 - Concession",
+    },
+    {
+        "eng_question": "We will call CST in the case of approved concession",
+        "arabic_question": "هنتصل بلعميل في حالة قبول التعويض",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "False",
+        "day": "Day 19 - Concession",
+    },
+    {
+        "eng_question": "The compensation request can be submitted starting from .. for TT issue",
+        "arabic_question": "التعويض بتاع ال TT ينفع يتعمل بعد اد ايه",
+        "options": [
+            "3 H",
+            "24 H",
+            "12 H",
+        ],
+        "correct_answer": "24 H",
+        "day": "Day 19 - Concession",
+    },
+    {
+        "eng_question": "We can compensate CST for TKT wirles issue",
+        "arabic_question": "ممكن نعوض العميل علي مشكلة Wireless",
+        "options": [
+            "True",
+            "False",
+        ],
+        "correct_answer": "False",
+        "day": "Day 19 - Concession",
+    },
+    {
+        "eng_question": "The compensation CST for outage starting from",
+        "arabic_question": "التعويض بتاع ال outage ينفع يتعمل بعد اد ايه",
+        "options": [
+            "3 H",
+            "24 H",
+            "12 H",
+        ],
+        "correct_answer": "12 H",
+        "day": "Day 19 - Concession",
+    },
 ]
