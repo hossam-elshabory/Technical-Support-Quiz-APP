@@ -2963,7 +2963,7 @@ questions = [
             "75 Working Hours",
             "24 Hour",
         ],
-        "correct_answer": "75 Working Hours",
+        "correct_answer": "72 Working Hours",
         "day": "Day 17 - Slowness",
     },
     {
