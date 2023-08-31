@@ -2959,8 +2959,8 @@ questions = [
         "eng_question": "Escalation Speed Variance case SLA will be",
         "arabic_question": "ال speed variance SLA كام",
         "options": [
-            "75 H",
-            "75 Working Hours",
+            "72 H",
+            "72 Working Hours",
             "24 Hour",
         ],
         "correct_answer": "72 Working Hours",
