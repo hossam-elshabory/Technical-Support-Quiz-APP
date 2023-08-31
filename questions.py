@@ -1728,7 +1728,7 @@ questions = [
             "عمل اعدادات للراوتر بال  right credential",
             "Restart Port",
         ],
-        "correct_answer": "Restart Port",
+        "correct_answer": "عمل اعدادات للراوتر بال  right credential",
         "day": "Day 14 - Unable to Obtain IP",
     },
     {
