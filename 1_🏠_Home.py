@@ -17,7 +17,7 @@ st.markdown(
     '<h3 style="color: #3498DB; margin-top: 0; width: 100%; text-align: right;">تحديثات</h3>'
     '<ul style="list-style-type: disc; padding-inline-start: 30px; color: #333; font-family: Cairo; direction: rtl;">'
     "<li>تم اضافة ال Third Quiz.</li>"
-    "<li>جاري اضافة Day 20 - Billing.</li>"
+    "<li>تم اضافة Day 20 - Billing.</li>"
     "<li>دلوقتي تقدر تتحكم في نسبة تشابه السؤال في ال Search Question❓.</li>"
     "<li>تم اضافة صور لاختيارات ال Case Detection لي (Unable to obtain IP + Browsing + Logical Instability).</li>"
     "</ul>"
