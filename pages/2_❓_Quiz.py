@@ -4,15 +4,7 @@ import random
 from typing import Set
 
 
-default_days = [
-    "Day 13 - Customer Request",
-    "Day 14 - Unable to Obtain IP",
-    "Day 15 - Browsing",
-    "Day 16 - Logical Instability",
-    "Day 17 - Slowness",
-    "Day 18 - Outage & System Handling",
-    "Day 19 - Concession",
-]
+default_days = ["All"]
 
 
 def main():
