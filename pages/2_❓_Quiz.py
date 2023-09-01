@@ -103,7 +103,7 @@ def display_message_to_users():
 
     st.markdown(
         '<div style="background-color: #e6f7ff; padding: 10px; border-radius: 5px; font-family: Cairo; direction: rtl;">'
-        '<span style="color: #0066cc; font-weight: bold;">🔰 اختر الأيام العاوز تحل ال Quiz بتعها (الأيام ال Logical هي المختارة بشكل تلقائي ,الهي بتاعت QUIZ بكره).</span>'
+        '<span style="color: #0066cc; font-weight: bold;">🔰 تم اختيار كل الايام تحضيرا لل Final, تقدر تحدد اي يوم انت عوزة برضو !</span>'
         "</div>",
         unsafe_allow_html=True,
     )
