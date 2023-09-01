@@ -3,7 +3,6 @@ from datetime import datetime, timedelta
 from streamlit_extras.colored_header import colored_header
 from streamlit_extras.app_logo import add_logo
 from streamlit_extras.switch_page_button import switch_page
-import pytz  # Import the pytz library
 
 add_logo(
     "https://muwuzzuf.com/logos/l6zrcpVygq4D3LK8SzjzTrz855qmONM8N10NUSQR.png",
@@ -17,7 +16,8 @@ st.markdown(
     '<div style="background-color: #E8F4FD; padding: 10px; border-radius: 10px; border-left: 4px solid #3498DB; direction: rtl;">'
     '<h3 style="color: #3498DB; margin-top: 0; width: 100%; text-align: right;">تحديثات</h3>'
     '<ul style="list-style-type: disc; padding-inline-start: 30px; color: #333; font-family: Cairo; direction: rtl;">'
-    "<li>تم اضافة جميع الأيام ال Logoical من Day 13 الي Day 19.</li>"
+    "<li>تم اضافة ال Third Quiz.</li>"
+    "<li>جاري اضافة Day 20 - Billing.</li>"
     "<li>دلوقتي تقدر تتحكم في نسبة تشابه السؤال في ال Search Question❓.</li>"
     "<li>تم اضافة صور لاختيارات ال Case Detection لي (Unable to obtain IP + Browsing + Logical Instability).</li>"
     "</ul>"
