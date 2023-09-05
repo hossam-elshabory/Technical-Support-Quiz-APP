@@ -18,7 +18,6 @@ st.markdown(
     '<ul style="list-style-type: disc; padding-inline-start: 30px; color: #333; font-family: Cairo; direction: rtl;">'
     "<li>تم اضافة كل الايام.</li>"
     "<li>تم اضافة كل الايام.</li>"
-    "<li>جاري اضافة ال quiz اليسا عملينو.</li>"
     "</ul>"
     "</div>",
     unsafe_allow_html=True,
