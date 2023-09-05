@@ -16,7 +16,6 @@ st.markdown(
     '<div style="background-color: #E8F4FD; padding: 10px; border-radius: 10px; border-left: 4px solid #3498DB; direction: rtl;">'
     '<h3 style="color: #3498DB; margin-top: 0; width: 100%; text-align: right;">تحديثات</h3>'
     '<ul style="list-style-type: disc; padding-inline-start: 30px; color: #333; font-family: Cairo; direction: rtl;">'
-    "<li>تم اضافة كل الايام.</li>"
     "<li>• تم تعديل سؤال كان محلول غلط في يوم ال Cancelation.</li>"
     "</ul>"
     "</div>",
