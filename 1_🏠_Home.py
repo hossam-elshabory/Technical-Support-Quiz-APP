@@ -16,8 +16,8 @@ st.markdown(
     '<div style="background-color: #E8F4FD; padding: 10px; border-radius: 10px; border-left: 4px solid #3498DB; direction: rtl;">'
     '<h3 style="color: #3498DB; margin-top: 0; width: 100%; text-align: right;">تحديثات</h3>'
     '<ul style="list-style-type: disc; padding-inline-start: 30px; color: #333; font-family: Cairo; direction: rtl;">'
-    "<li>تم اضافة Day 21 + Day 22.</li>"
-    "<li>جاري رفع ملفات ال PDF لكل الايام.</li>"
+    "<li>تم اضافة كل الايام.</li>"
+    "<li>تم اضافة كل ال PDFS.</li>"
     "</ul>"
     "</div>",
     unsafe_allow_html=True,
@@ -25,7 +25,7 @@ st.markdown(
 
 st.write("")
 
-col1, col2, col3, col4 = st.columns(4)
+col1, col2, col3, col4, col5 = st.columns(5)
 
 with col1:
     quiz_page = st.button("✍Take A Quiz !!")
@@ -43,3 +43,7 @@ with col4:
     case_detect = st.button("🔭 Case_Detection")
     if case_detect:
         switch_page("Case_Detection")
+with col5:
+    pdf = st.button("📚 Matrial PDFS")
+    if pdf:
+        switch_page("Matrial PDFS")
