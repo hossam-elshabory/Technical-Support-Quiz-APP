@@ -16,7 +16,7 @@ st.markdown(
     '<div style="background-color: #E8F4FD; padding: 10px; border-radius: 10px; border-left: 4px solid #3498DB; direction: rtl;">'
     '<h3 style="color: #3498DB; margin-top: 0; width: 100%; text-align: right;">تحديثات</h3>'
     '<ul style="list-style-type: disc; padding-inline-start: 30px; color: #333; font-family: Cairo; direction: rtl;">'
-    "<li>جاري اضافة اسئلة Day 22 + Day 21.</li>"
+    "<li>تم اضافة Day 21 + Day 22.</li>"
     "<li>جاري رفع ملفات ال PDF لكل الايام.</li>"
     "</ul>"
     "</div>",
