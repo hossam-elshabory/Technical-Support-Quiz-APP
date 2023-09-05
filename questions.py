@@ -4181,7 +4181,7 @@ questions = [
         "eng_question": "In Retention Offering, Agent should offer the Free quota add-ons then offer the same package discount add-ons :",
         "arabic_question": "خلال ال Retention Offering, ال يجب على ال agent عرض ال free quota أولا ومن ثم عرض ال same package discount add-ons:",
         "options": ["False", "True"],
-        "correct_answer": "False",
+        "correct_answer": "True",
         "day": "Day 22 - Cancelation",
     },
     {
