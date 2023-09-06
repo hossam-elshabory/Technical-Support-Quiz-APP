@@ -215,7 +215,7 @@ questions = [
         "eng_question": "temporary suspension service Fees without VAT",
         "arabic_question": "سعر الايقاف المؤقت بدون الضريبة ؟",
         "options": ["20 LE", "30 LE", "50 LE"],
-        "correct_answer": "20",
+        "correct_answer": "20 LE",
         "day": "Day 05 - Fixed Voice Migration",
     },
     {
